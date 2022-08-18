@@ -1,0 +1,183 @@
+
+<!doctype html>
+<!--
+	Lamoda by TEMPLATE STOCK
+	templatestock.co @templatestock
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+
+
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8">
+
+    <meta name="author" content="">
+    <meta name="keywords" content="">
+    <meta name="description" content="">		
+		
+	<!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.theme.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.transitions.css" rel="stylesheet">
+    <link href="css/magnific-popup.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/animate.css" />
+    <link rel="stylesheet" href="css/etlinefont.css">
+    <link href="css/style.css" type="text/css"  rel="stylesheet"/>
+
+      
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.12.0/css/dataTables.bootstrap4.min.css" rel="stylesheet">
+    
+     <!--styles -->
+    <!-- <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.theme.css" rel="stylesheet">
+    <link href="js/owl-carousel/owl.transitions.css" rel="stylesheet">
+    <link href="css/magnific-popup.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/animate.css" />
+    <link rel="stylesheet" href="css/etlinefont.css">
+    <link href="css/style.css" type="text/css"  rel="stylesheet"/> -->
+   
+  <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"
+></script>
+
+<!-- ✅ load DataTables ✅ -->
+<script
+  src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/js/jquery.dataTables.min.js"
+ 
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+></script>
+<script type="text/javascript">
+
+$(function() {
+  $(document).ready(function() {
+    $('#example').DataTable();
+  });
+});
+
+      </script>
+     <style>
+         body {
+	min-height: 100vh;
+  background-image: url("static/images/slider/1.jpg");
+  background-repeat: no-repeat;
+  }
+  background-imge{
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('static/images/slider/1.jpg');
+            display: block;
+            size: cover;
+            position: absolute;
+  }
+  table tr th{
+  background:#337ab7;
+  color:black;
+  text-align:left;
+  vertical-align:center;
+}
+  
+
+         </style>
+   <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
+        <![endif]-->
+    
+ 
+
+  
+</head>
+
+<div class="row" style="margin-top:20px; margin-left:20px;"">
+   <div class="col-8">
+       <h2 style="color:white">Get your best candidate</h2>
+       
+       <br>
+       </div>
+       </div>
+       <div class="row py-5">
+         <div class="col-lg-10 mx-auto">
+           <div class="card rounded shadow border-0">
+             <div class="card-body p-5 bg-white rounded">
+               <div class="table-responsive">
+      <table id="example"style="width:100%" class="table table-striped table-bordered">
+         <thead>
+          <a href="{{ url_for('plot_csv') }}" class="middle btn btn-white">Download</a>
+          <a href="{{ url_for('home_page') }}" class="middle btn btn-white">BACK</a>
+            <tr>
+               <!-- Your Columns HERE -->
+               <th scope="col">Email</th>
+               <th scope="col">Resume Id</th>
+               <th scope="col">Rank</th>
+               <th scope="col">Category</th>
+               <th scope="col">Job's Connect Score</th>
+              
+            </tr>
+         </thead>
+         <tbody>
+            <!-- Your rows inside the table HERE: -->
+            <!-- Your rows inside the table HERE: -->
+            {% for i in range(0,users['Email'] |length) %}
+            <tr>
+
+            <td>
+               <div  style="color:black">
+               <a> {{users['Email'][i]}}</a> <br>
+              </div>
+               
+   
+            </td>
+            
+            <td>
+               <div  style="color:black">
+               <a> {{users['Resume Id'][i] }}</a> <br>
+              </div>
+              
+   
+            </td>
+
+            <td>
+               <div  style="color:black">
+               <a> {{users['Resume Rank'][i] }}</a> <br>
+              </div>
+              
+   
+            </td>
+            <td>
+               <div  style="color:black">
+               <a> {{users['Job Title'][i] }}</a> <br>
+          </div>
+               
+   
+            </td>
+            <td>
+               <div  style="color:black">
+               <a> {{users["Job Connect's Score"][i] }}</a> <br>
+              
+               </div>
+            </td>
+
+            
+            </tr>
+            {% endfor %}   
+            
+            
+         </tbody>
+      </table>
+   </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</html>

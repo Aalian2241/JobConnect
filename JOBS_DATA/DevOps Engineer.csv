@@ -1,0 +1,1976 @@
+,JobId,job_descriptions,job links,job titles,Posted By,Posted Time,Employement Status,Location
+0,0,"Posted by
+Bilal Arif Chhotani
+Human Resources Professional | xP&G | xHRSG | xDHL | AIESEC
+Send InMail
+Hey there, we’re Integry. We’re a distributed startup headquartered in San Francisco, California with teams distributed globally. We build technology that makes your favorite apps work for you automatically. Our technology helps the smallest startup to the largest enterprise add automation to their apps, getting rid of boring, repetitive work.
+
+THE ROLE
+We’re looking for a senior engineering leader to manage our growing cloud infrastructure needs. You’ll be working on deploying, managing, securing, and monitoring services. You are a stickler for details, care deeply about your craft, and are completely hands-on.
+
+REQUIREMENTS
+
+Own: manage Integy's infrastructure, maintain industry-leading up time.
+GCP: At least 3 years of experience working with Google Cloud Platform
+*nix: We're sure you know Linux, HR wanted us to be thorough and mention it here
+VM: Experience in VM lifecycle: creating, managing, backing up, restoring
+Kubernetes: Experience managing Kubernetes clusters, configuring, adding docker images.
+Scripting: Experience writing scripts to automate processes related to infrastructure in Python, Bash, etc
+Databases: Experience managing Databases like MySQL, Redis, MongoDB including backing up, replication strategy, audit logging, permissions, and security.
+CI/CD: Experience implementing continuous integration and delivery
+Security: Knowledgeable in security best practices for cloud, VPN, firewalls, etc. Prior experience working on SOC II, OWASP, ISO standards is a plus.
+Scaling: Experience in autoscaling various services on traffic profiles.
+Cost: Make infrastructure purchasing and costing decisions
+Collaborate: Bridge with the engineering team to work and improve the release processes
+Quality: Understanding of embedding Quality Assurance at every part of the creation and rollout process
+Critical thinking: Critical thinking and problem-solving skills. Ability to think about edge cases and test your work.
+Communication: Exceptional written and verbal communication skills
+Manage & Lead: Ability to plan and estimate time and effort for rolling out features. Ability to perform code reviews. Ability to unblock your team members.
+
+SKILLS AND EXPERIENCE
+
+Education: Bachelor's degree in CS or related fields
+Experience: At least three years of experience
+Cloud: 3 years hands-on with GCP
+
+WORKING AT INTEGRY
+
+Top 1% You, Top 1% Salary: We hire the very best top 1% and we pay the top 1% of the market.
+Work from anywhere: We are a fully distributed company with team members working across three different continents.
+Work at any time: We’re also distributed in time. We don’t have timings; we have regular check-ins. You work at whatever time suits you.
+Unlimited Vacations: Anyone can take a few hours, days, weeks off without approval. We don’t track how many days you’re off.
+Home Office Renovation Budget: We want you to be comfortable working from home. We’ll assign an Interior Designer to you who will work with you to renovate your home office.
+Home Utilities Support: We’ll cover internet, backup internet while you work from home
+Work from any Coworking Space: Maybe you don’t want to work from home or you can’t. In that case, pick any coworking space near you and we’ll pay for it.
+Medical coverage for you, your family, your parents, or anyone you care about: So long as you have a valid receipt or invoice. Your coverage includes dental and vision as well.
+Up to Six Month Paid Maternity Leave: We also provide leaves in case of miscarriage
+Education fund: We’ll pay for any books, courses or material you need to purchase
+Awesome Gear: Upgrade your own laptop or get a custom, top-of-the-line laptop from us
+Stock Options: You’ll get stock options in Integry Inc. USA
+
+YOU…
+are curious who likes to learn new things and is down to dive into complex technical topics and learn about them
+are self-motivated and comfortable working with yourself and in a team. You know how to get in front of things and are proactive, not reactive.
+don’t mind wearing many hats from software construction to helping build presentations.",https://www.linkedin.com/jobs/view/3103029930/?eBP=CwEAAAGBh3pssJLuLAaUTya6STPPiuZCU7YsB2Giv_U4aJoL-xN6YVgQG6lSeFVy_c20ejRa-3QBoUn-keZouVdB4mlJSLH3LFa0BXNkdJdHhCyv_A3JwPmisz6M8JPMuZfEkRAWUJ0nBf3N_V7XRfasL42yz51q7RdNAkiA9pf5znEGMPYGX5Sw1n9j8DuPUNroaf1rdSQjitxeuFZDDhndHEbpxNgf_Ynalgdfv2IoiyksChMm_4uFkFw1cKqGOhxZNKVEWpsdXta6mL6QVjq_LHifxscJLtTX8MP8KRVntUXXZ5jopwx1sWd2oSACa7i73a7zsiMYcenmxE6RT5PC2UA&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=blb0LvAXt9O2fPBINam7zA%3D%3D&trk=flagship3_search_srp_jobs,Principal DevOps Engineer,Integry,3 weeks ago,Full-time · Mid-Senior level,Pakistan
+1,1,"Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Virtasant. Have you got what it takes?
+
+Do you love the challenge of constantly solving new problems and learning new technologies? Would you like to work with some of the world's best cloud professionals at some of the world's leading companies, designing and building highly scalable, portable Kubernetes solutions?
+
+At Virtasant, our teams work with global clients to help them leverage the power of the cloud. Our advanced technology solutions team works on solving complex customer problems at an unmatched scale. With us, you will design and implement the fundamental tools and platforms on which our customers will run their businesses.
+
+If you are excited about learning from some of the best technology leaders in the world and pushing the limits of Kubernetes, we want to hear from you!
+
+What You Will Be Doing
+Designing and implementing features for customers, including coding, testing, and deployment
+Investigating issues and bugs escalated by Support, Professional Services team, etc
+Providing feedback to the Product Management team on the technical aspects of the products
+What You Won’t Be Doing
+Maintaining existing, sub-standard solutions
+Simply designing solutions and not implementing them
+DevOps Engineer Key Responsibilities
+
+You will have end-to-end ownership of the technical design and implementation of features for our customers' platforms.
+
+Basic Requirements
+Experience coding with Cloud Infrastructure (GCP, AWS, Azure), Docker/Kubernetes
+Experience migrating applications to Kubernetes
+Experience as a DevOps/Site Reliability Engineer
+About Virtasant
+
+Virtasant is a global cloud services provider with industry-leading technology, capabilities, and people. We've been working in the cloud, testing the limits of its capabilities, since the start. We transform, build, and optimize customers' digital experience in the cloud every day, helping companies make the most of the cloud's native capabilities. To achieve this, we've built one of the world's largest fully remote organizations.
+
+To maintain the high quality of services that Virtasant is offering, we give all our employees a chance of attaining official cloud certification which helps them develop and grow themselves faster.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+Important! If you do not receive an email from us:
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/reset-password if you already applied using LinkedIn EasyApply.
+Crossover Job Code: LJ-4754-PK-Islamaba-DevOpsEngineer.001",https://www.linkedin.com/jobs/view/3125331358/?eBP=CwEAAAGBh3pssLEjsfSpxKARyjgqMhW6e-k1HwqqM_rZa38bW-DxP_FbDvHR0VG-DWzmeLrIZnSVwuliGp4qfL9eTvIdzEGMZnidtsiNJlWcnqq0LJS0S33Rh4KQkz21-LNpl_FYpGm-lsIZtA2_yUmmE0_lm0ZQfnFOZ664WFGfwwl-5VYtQcEsy906x98alOb6TACA0b3CKGdCU8WO2EwXhh8RG-c6t5bueuvmkNAimaa3wPA7KnKaO48m3VDFA4mGk5MAOdZQeEcjILaBkmEpZik2e5jrO3bTE8AR1ouDeK20epe1-eh0zKabnfgP35kuekrT_Zs8VO8pWWAGm74dBgaKyJtG-MsXG1lf9cZLK5cQVQJR206pfidHKg&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=z1SP1zvEkrBs2kp2J%2BKhgw%3D%3D&trk=flagship3_search_srp_jobs,"DevOps Engineer, Virtasant (Remote) - $100,000/year USD",Crossover for Work,1 day ago,Full-time · Mid-Senior level,"Islamabad, Islāmābād, Pakistan"
+2,2,"At EMPG LABS, an EMPG company, we are looking to further expand our Pakistan engineering office of already 300+. We are most interested in bringing on board colleagues who love to learn, perform, and teach. We are building a high-quality engineering environment with a super focus on delivering value to customers. Your primary responsibility would be to build world-class suite products to support the hyper-growth of our businesses in 16 countries.
+Minimum 3+ years of relevant experience
+Excellent in problem solving, critical thinking and communication skills.
+To collaborate with cross-functional teams to define and deploy new applications.
+Demonstrate the ability to work independently and as part of a development team with a range of scientific and professional backgrounds
+Expertise in AWS, Azure, GCP, Rackspace will be highly preferred
+Experience in Mysql, PosgresSQL, MongoDB, RedShift
+Familiar with working in Linux/Windows environment",https://www.linkedin.com/jobs/view/2671302388/?eBP=CwEAAAGBh3pssKD1XdJCGnDuv_EgJA5TzW-J2JEoZVzJTZGkRhLvRgCxDyXgmr6-dr0Mb1uadKTR06HQLgwQHJ_jxffeviq1Q2XgKaOJxbW1t7OCqYpsiTzwztnowTMcInbG6o_oI-ok7RR813pUnGI27c0bl7y6MTFlaUWxVjjtbRI3nWG9Je29EqcHcWyA5pG3QccTdEXHUYfD-t_ssAvjq1G_1ML9e064qXSCjy4bcpzF9r9ieOIVem_squME6BsUVWEF88DwzGjpEJyMzlZjP_DthM1qHFpVgMkMrdcUqdFUl344TaDqOZXdYHR2F5iP40-gdp_L-bmRw0UhHQ06cEU&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=NrFEUGhYikuLd%2BMJ293YSg%3D%3D&trk=flagship3_search_srp_jobs,Senior DevOps Engineer,EMPG LABS,2 weeks ago,Full-time · Associate,"Lahore, Punjab, Pakistan"
+3,3,"Description
+
+As a DevOps Engineers at Dubizzle ensures, you will ensure our services are healthy, monitored, automated, and designed to scale. You’ll use your background as an operations generalist to work closely with our development teams from the early stages of design all the way through identifying and resolving production issues. You will support a wide range of products focusing on automation, availability and performance, and above all reliability.
+
+Requirements
+Serve as a primary point responsible for the overall health, performance, efficiency and capacity of our production environment
+Be part of the implementation and design of the systems used to operate Dubizzle, with a focus on automation and maintainability at large scale
+Experience in building large CI/CD processes (experience with Github actions & Jenkins is preferred)
+Collaboration with the development team on operations-related issues, providing support and acting as stakeholder
+Provide fast and reliable development experience for product teams by maintaining production-like environments used for development and testing
+Develop tools to effectively monitor custom applications in a large-scale environment
+Troubleshoot issues across the entire stack - hardware, software, application and network
+Migrate applications off of legacy environments with minimal downtime
+Take part in a shared 24x7 on-call rotation
+Document system design and procedures
+Experience & Qualification
+Bachelor's Degree in Computer Science, Engineering or equivalent field and significant experience in DevOps.
+AWS Solutions Architect certification
+4+ years experience in supporting hosted services in a high-volume customer-facing environment
+Experience with DevOps tools, processes, culture, distributed systems, supporting mission-critical systems
+Experience working on Continuous Integration / Delivery pipelines using tools such as Jenkins and Github actions
+Demonstrated ability to write programs / utilities using a high-level programming language like: Go, Ruby, Python as well as Bash
+3+ years proven experience in running and managing infrastructure at scale using container orchestration tool kubernetes
+Experience in performing migration from traditional technology stack(s) to AWS EKS or similar
+Benefits
+A fast paced, high performing team.
+Multicultural environment with over 35 different nationalities
+Competitive Tax-free Salary
+Comprehensive Health insurance
+Annual Air Ticket Allowance
+Employee discounts at multiple vendors across the emirates
+Rewards & Recognitions
+Learning & Development",https://www.linkedin.com/jobs/view/2635839125/?eBP=CwEAAAGBh3pssYc8dX5Xsnn2LuaZxwpxn8pTHJybgxtLOs-fGEObX4ClPLQ6ADjJu8V1eI2BloTHCU2S2KZmB6zlh96RFASMwiG66YwweDmFQkho74ka5Ed1t-iXBFQQvXvCfwUW7kWRAVajFR7In3vyPEg1eMuRenBdJ4NjlcjolDb_Mw_TIsjlH0DqgN7RiDeIHNRVWu402bt9a-SlAnuoE6ZudQrZxhSUi4j-bjmTcemBtbcIhduIhtlgh8hW32mCZwVWBXRK1Cy5StGPDAdEIGle4dpwuXei2kA3OdfCkver1YsP6YI3fW3O4pPpGUgcNZN7DsUFhRE4KrePe4XA6LpMWSdNe2yWwy6BDSvngnA3ar2_VCnxcG71HeTT&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=16PPRQGTWG0l9ln7C5WfOw%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Bayut.com,4 days ago,Full-time · Entry level,"Karachi Division, Pakistan"
+4,4,"Posted by
+AIMA SHABIR
+Talent Acquisition | HR Officer | Head Hunter | Technical Recruiter |
+Send InMail
+EXPERIENCE
+5 - 10 years of combined overall Application development or DevOps experience
+COMPETENCIES (Skill set, abilities and traits required)
+Team Work
+Integrity
+Entrepreneurship
+Achievement Orientation
+Presentation Skills
+Conflict Management
+Client Relationship Building
+Knowledge Management
+Proposal Development
+Strong communication and interpersonal skills
+Ability to work in a fast-paced and highly growing business
+Customer focused approach and ability to learn and adapt to needs and changes quickly
+ROLES / RESPONSIBILITIES
+Work in an Agile product team and across cross-functional teams to design, develop, test, and support complex software systems.
+· Create and maintain infrastructure to support building, testing, deploying and orchestrating Micro-services
+· Design and build infrastructure on premises and run regression tests.
+· Deploy and manage orchestration systems to schedule maintenance jobs, Keep services available and auto-scale when testing demands grow. Implement monitoring and alerting systems around the various DevOps operations.
+· Build a CI system to allow teams to run their pipelines on various other projects.
+· Work in a variety of infrastructure providers from cloud providers like AWS to virtual machines and physical servers.
+· Hands on experience with Docker and Kubernetes.
+· Hands-on experience with DevOps tools such as Azure DevOps, Github Actions, TFS or Octopus Deploy, JIRA or any other.
+· Experience in designing and deploying Micro-services
+· Experience with SQL and NoSQL databases
+· Experience with developing RESTful web services
+· Linux experience with other open-source tools familiarity. Bash scripting and YAML files.
+· Experience of Software Development processes and methodologies",https://www.linkedin.com/jobs/view/3133921407/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=AEOgMhmaOBlHZa0iIRW7mQ%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Abacus Consulting,10 hours ago,Full-time · Mid-Senior level,"Islamabad, Islāmābād, Pakistan"
+5,5,"Country
+
+Pakistan
+
+Job Family
+
+Technology
+
+For over 80 years, GfK has been a reliable and trusted insight partner for the world’s biggest companies and leading brands who make a difference in every consumer’s life - and we will continue to build on this. We connect data, science and innovative digital research solutions to provide answers for key business questions around consumers, markets, brands and media. With our headquarters in Germany and a presence in around 60 countries worldwide, you benefit from our global company with a diverse community of ~9,000 employees.
+
+Harnessing the power of our workforce, the greatest asset we have is our people. As part of GfK, you can take your future into your own hands. We value talent, skills and responsibility and support your development within our international teams. We are proud of our heritage and our future: Currently we are in the latter stages of a transformational journey from a traditional market research company to a trusted provider of prescriptive data analytics powered by innovative technology. This is only possible with extraordinary people and this is why we are looking for YOU to help create our future. For our employees as well as for our clients we pursue one goal: Growth from Knowledge!
+
+Job Description
+
+Key Activities
+Ability to contribute in all phases of the product lifecycle.
+Ability to multi-task.
+Ability to work independently and must be self-driven.
+Contribute to software life cycle strategies.
+Regularly attending team meetings to discuss projects, brainstorm ideas, and put forward solutions to any issues.
+Looking after all the infrastructure hosted in KHI DC and AWS including but not limited to;
+Troubleshooting hardware/tools/applications/service level issues
+Hardware upgrade
+OS upgrades and patch management
+Application deployments
+Firewall administration
+Monitoring
+Backups and restorations
+Database administration; support, backups and restorations – MySQL, MSSQL, Document DBs
+Web server administration – Apache, Tomcat, NGINX, IIS
+Managing internal and external DNS hosting.
+Coordinate with CDN for any issue, update/addition of new rules, ensure timely synch and purging of data to CDN as per the committed SLA.
+Management, Support and Administration of 3rd party hosted applications – Atlassian JIRA
+User account management and server administration on both LDAP and Active Directory
+Application and OS patch management to ensure information security compliance.
+We are an ethical and honest company that is wholly committed to its clients and employees. We are proud to be an inclusive workplace for all and are committed to equal opportunity in employment which focuses on all of our employees reaching their full potential. At GfK we work collaboratively with our colleagues but offer a flexible working approach, including dividing our time between office & remote working as well as the opportunity to flex our working hours around team core hours.
+
+We offer an exciting work environment that brings people together. We encourage an entrepreneurial and innovative spirit. We make use of the latest digital technologies. We are looking for self-starters, who accept challenges and create solutions.
+
+Can there be a better place to take center stage in the digital revolution? We are excited to get to know you!",https://www.linkedin.com/jobs/view/3123428865/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=n6YqmLEK7EvPPfirp4vOng%3D%3D&trk=flagship3_search_srp_jobs,Junior Site Reliability Engineer,GfK,3 weeks ago,Full-time · Associate,"Karachi Division, Pakistan"
+6,6,"Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, IgniteTech. Have you got what it takes?
+
+Are you tired of juggling changing instructions from multiple stakeholders, or putting down fires for the same product and using the same technology every day? Join us to supercharge your career by building efficient and stable infrastructure for a portfolio of cloud-native products.
+
+We treasure every piece of your technical expertise. Whether you have worked with Oracle, MS SQL, Postgres or mySQL., whether you prefer fast-paced lift & shift cloud migrations or stable DB administration, we want you to have an impact in our organization.
+
+At IgniteTech, we are reinventing the enterprise software industry. Our “Netflix for Enterprise Software” model is changing the game for how enterprises buy software, and a key element of our growth strategy is to drive great customer experiences across our broad and growing library of solutions.
+
+What You Will Be Doing
+Learning new technologies to evaluate their potential to simplify our infrastructure, improve availability and reduce costs
+Monitoring and maintaining cloud services, dockerized containers and databases
+Migrating non-standard components to our standardized infrastructure
+What You Won’t Be Doing
+Focusing on a single product or being stuck with the same set of technologies
+Building customized infrastructure solutions that add complexity
+DevOps Engineer Key Responsibilities
+Deliver standardized, high-availability, cost-optimized infrastructure
+Handle SaaS requests or incidents
+Basic Requirements
+2+ years of hands-on experience with Linux and AWS Services
+Ability to use infrastructure configuration management, deployment, and versioning tools
+Ability to deploy and configure infrastructure for virtual machines (VMWare) and to pack applications into containers and deploy them (Docker/Kubernetes)
+A university degree requiring an in-depth study of data structures, algorithms, object-oriented programming, computer architecture, and software engineering OR equivalent experience
+About IgniteTech
+
+If you want to work hard at a company where you can grow and be a part of a dynamic team, join IgniteTech!
+
+Through our portfolio of leading enterprise software solutions, we ignite business performance for thousands of customers globally. We’re doing it in an entirely remote workplace that is focused on building teams of top talent and operating in a model that provides challenging opportunities and personal flexibility.
+
+A career with IgniteTech is challenging and fast-paced. We are always looking for energetic and enthusiastic employees to join our world-class team.
+
+We offer opportunities for personal contribution and promote career development. IgniteTech is an Affirmative Action, Equal Opportunity Employer that values the strength that diversity brings to the workplace.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $30 USD/hour, which equates to $60,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+Important! If you do not receive an email from us:
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/reset-password if you already applied using LinkedIn EasyApply.
+Crossover Job Code: LJ-4728-PK-Lahore-DevOpsEngineer.004",https://www.linkedin.com/jobs/view/3125330433/?eBP=CwEAAAGBh3pssR1-R0o_ixqGPtagFWsvw_wWFY7NhmYoxCKcQVbOxgJrvTOYf5nOqRGihO_ELNqsYqs3JtL5Bc8WZDBKwT7iLp7qL6Gkci1B3kXt6_lqQqqp0GlfJDOq5nwcQ-df-1OZadg8OvLzdEJlrTYNOQ6H4COEEdVX2JkTD6uQOMAg-8LPAGO7Ttbp7pbag-7WZmF4leracJBVSk5vpzjfCjzKNT2b9RSLoKdjxk5UEFW7gGs92Ei_XNzqcyyw-zGSZdg4BoB9fO2vOoAlTddzVoynU2EWg3EjCKtfhcQY4tHQfnbaaHEyIqSCetshMAKu2YP4LCweVki4wDO5n65faPdY33uA1qfvwe7DCd-ljInDDa2VYxP98En0eaE&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=CL8JtiQDZ0X%2Bv4qRggI3xQ%3D%3D&trk=flagship3_search_srp_jobs,"DevOps Engineer, IgniteTech (Remote) - $60,000/year USD",Crossover for Work,1 day ago,Full-time · Associate,"Lahore, Punjab, Pakistan"
+7,7,"The Division
+
+Trapeze Europe, a division of Constellation Software Inc., provides enterprise solutions that consider the full 360 degrees of transport. The company has grown its solution portfolio and global presence to become one of the world's leading companies of software solutions and intelligent transport systems. Trapeze Group provides its solutions to public and private transport organizations and authorities across Europe, North America, and Asia Pacific.
+
+The Position
+
+We are seeking Trainee DevOps Engineer who will be working with our Trapeze Europe division. The hired candidate will be located and work out of the Contour Software Lahore office, working as part of the resource-center, as an extension of the division-based R&D department.
+
+Required Qualifications
+Bachelor's degree from an accredited college or university or a certificate from a technical training institute.
+Fresh graduates or having 1-year of DevOps experience.
+SCM processes implementation knowledge or experience.
+Knowledge of source control, git.
+SQL server database knowledge.
+Adequate understanding of Windows servers and cloud computing.
+Detailed understanding of setup and maintenance of web application with IIS
+CI/CD concepts, tools and implementation.
+Build Tools and Programming expertise are plus.
+Adequate accuracy and fluency in written and spoken English.
+A familiarity with software development methodologies, tools, languages and approaches
+Exciting Benefits we offer:
+Market-leading Salary
+Medical Coverage Self & Dependents
+Parents Medical Coverage
+Provident Fund
+Employee Performance-based bonuses
+Home Internet Subsidy
+Conveyance Allowance
+Profit Sharing Plan [Tenured Employees Only]
+Life Benefit
+Child Care Facility
+Company Provided Lunch/Dinner
+Professional Development Budget
+Recreational area for in-house games
+Sporadic On-shore training opportunities
+Friendly work environment
+Leave Encashment",https://www.linkedin.com/jobs/view/3110623534/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=uC8H5tKtMW1Qh3tDV4PMWQ%3D%3D&trk=flagship3_search_srp_jobs,Trainee DevOps Engineer,Contour Software,1 week ago,Full-time · Entry level,"Lahore, Punjab, Pakistan"
+8,8,"About The Job
+
+Toptal developers work with speed and efficiency to deliver the highest quality of work. We are looking for someone who is passionate about their client’s business, and ready to work on exciting projects with Fortune 500 companies and Silicon Valley startups, with great rates and zero hassles. If you are looking for a place to advance your career, enhance your skill set, and build connections around the globe, Toptal is right for you.
+
+About Toptal
+
+Toptal is an exclusive network of top freelancers from around the world. Fortune 500 companies and Silicon Valley startups hire Toptal for their most important projects. Toptal is one of the fastest-growing fully remote networks and empowers freelance software developers, designers, finance experts, product managers, and project managers worldwide to grow and excel in their freelance careers. Toptal clients vary in sizes and industries, from enterprise organizations and big tech companies to Silicon Valley startups and renowned universities. Once you enter the network, our matchers will contact you with project opportunities that fit your expertise and preferences. We have experts in over 120 countries who get to work remotely on projects that meet their career ambitions. About the role We are looking for a Site Reliability Engineer (independent contractor) who will be in charge of improving our clients’ current systems and processes. You will be responsible for the availability, quality, and reliability of the platform services and applications, ensuring they satisfy the requirements of all stakeholders. You will also be responsible for performing in-depth analysis of the possible risks and countermeasures for them. Requirements
+English language proficiency
+At least 3 years of professional experience as Site Reliability Engineer
+Project management skills
+A keen attention to detail
+Full-time availability is a strong advantage
+If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form to get started.
+
+#GlobalOpportunities #RemoteJobSiteReliabilityEngineering",https://www.linkedin.com/jobs/view/3133501273/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=4LN4wayhNEZxkmUxyj8tyQ%3D%3D&trk=flagship3_search_srp_jobs,Freelance Site Reliability Engineer,Toptal,23 hours ago,Contract · Mid-Senior level,Pakistan
+9,9,"Posted by
+Aelia Adil
+Student at Lahore University of Management Sciences
+Send InMail
+Applicant must be familiar with both Azure administration and development and must be expert in these areas. Must be responsible individual who delivers on time and is comfortable working with a team of developers.
+
+Responsibilities
+Develop an instrumentation strategy
+Develop a Site Reliability Engineering strategy
+Develop a security and compliance plan
+Manage source control
+Facilitate communication and collaboration
+Define and implement continuous integration
+Define and implement a continuous delivery and release management strategy
+
+Qualifications
+Preferably a Microsoft Certified DevOps Engineering Expert
+Excellent verbal communication skills",https://www.linkedin.com/jobs/view/3129134297/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=uXz87iJHtyhu0dvRjzD%2FgQ%3D%3D&trk=flagship3_search_srp_jobs,Azure DevOps Engineer,AppRays,9 hours ago,Part-time,"Lahore, Punjab, Pakistan"
+10,10,"The Division
+
+Every employee of CAKE should continually strive to deliver exceptional service to our clients, subconsultants, co-workers and everyone with whom we come into contact. CAKE represents teamwork, communication, accountability, and respect - this is our public image.
+
+The goal of CAKE is to solidify and grow our client base through the cooperative efforts of employees at all levels. To help us achieve this goal, we promote continuing professional development to serve the needs of our employees and the growth we are building together. By working together, increasing efficiencies and focusing on quality and profitability, we will prosper in any economic environment.
+
+The Position
+
+As a DevOps Engineer at CAKE, you will utilize your combination of significant Windows & Linux experience, network knowledge, scripting abilities, information security and debugging skills to design, deploy, monitor and automate all operational aspects of CAKE's platform.
+
+You will be joining the DevOps team and be responsible for deploying both offensive and defensive techniques to keep our platform humming. You should have a background in system administration at scale and be familiar with technologies such as Jenkins (continuous integration), MS SQL, Cassandra, NoSQL, Redshift, and MySQL. You will work very closely with the product and development teams, and participate in LiveOps functions with the LiveOps team, when needed.
+
+The chosen individual will work out of the Contour Software Karachi resource center office, as an extension of the division-based R&D department.
+
+Key Responsibilities
+
+LiveOps
+Participate in LiveOps functions when needed
+Perform Server Administration: configuring, managing, patching (Windows/Linux)
+Execute IIS Management Be the Primary for 3rd party multiple Domain/SSL Management (single/UCC)
+Participate in In-office and after-hours On Call rotation.
+Respond promptly to system alerts and evaluate root cause.
+DevOps
+Implement DNS Management through 3rd party tools
+Utilize Scripting and Systems/Process Automation skills (PowerShell, Python, etc.) for advanced deployments and tools building.
+Possess Microsoft SQL Server administration/scripting skills
+Pioneer Amazon Web Services Management (all areas of AWS console) through automation and scripting in multiple regions.
+Manage ""production-based platform development environments through Staging, to participate in delivery of software engineering features.
+Communication/Teamwork
+Participate as a full team member in all planning and estimation practices.
+Hold other team members accountable for quality. (e.g. if software is deemed ""code complete but does not meet the requirements, emphasize the need for more or better developer testing.)
+Clearly and promptly communicate any defects, issues, or concerns with software before, during, and after the development process
+Requirements:
+Bachelor's Degree preferred in Computer Science or equivalent experience is preferred, 2-3 years DevOps experience including exempt and non-exempt positions. Will consider experience in lieu of a degree.
+2+ years of experience in Windows/Linux Server Administration
+Experienced in Bash/Python scripting (able to administer AWS through the CLI, and scripting)
+Some PowerShell experience (able do a post setup script, Administer SQL via PowerShell)
+Experience with database systems and an ability to create DB queries and understand/troubleshoot stored procedures
+Strong familiarity with various scripting languages & frameworks (shell scripting, PowerShell, Python, Bash, etc.)
+Moderate DB Skills in at least one of the following:
+MS SQL
+Cassandra
+MySQL
+Postgres
+HTML/XML/YAML
+Experienced in related web technology skills (DNS, HTTP, SSL)
+Tools development. We want engineers that can automate the deployment, administration and monitoring of our large-scale Windows & Linux environments
+Be a puzzle master. Be able to solve the problems thrown at you daily and enjoy it.
+Ability to work both independently and as a productive and helpful team member
+Skill to manage multiple priorities with limited supervision
+Accurate documentation skills
+Ability to work in a timely manner to meet important deadlines
+Degree in Computer Science, Engineering or related field or comparable experience
+Understand what an ELB, CDN, and VPC are
+Experience in the following is preferred:
+Previous DevOps experience in a SaaS environment
+Jenkins continuous automation
+Cloud automation (Specifically AWS)
+NoSQL, RDS and Redshift DB technologies are nice to have
+Large/Global server networks/architecture
+Jira or similar project management tools
+FreshDesk or similar support tools
+Being part of a Production On-Call rotation
+Exciting Benefits we offer:
+Market-leading Salary
+Medical Coverage Self & Dependents
+Parents Medical Coverage
+Provident Fund
+Employee Performance-based bonuses
+Home Internet Subsidy
+Conveyance Allowance
+Profit Sharing Plan [Tenured Employees Only]
+Life Benefit
+Child Care Facility
+Company Provided Lunch/Dinner
+Professional Development Budget
+Recreational area for in-house games
+Sporadic On-shore training opportunities
+Friendly work environment
+Leave Encashment",https://www.linkedin.com/jobs/view/3118518128/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=axbEMZ0ff%2Bm9oArUiVYD%2FQ%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Contour Software,1 month ago,Full-time · Entry level,"Karachi Division, Pakistan"
+11,11,"About Gigster:
+We envision a future where the best ideas flourish and provide great choices for customers to enrich their lives. Today, a few digital-native companies are disrupting almost every industry. Gigster believes in democratizing this capability—enabling all companies to build their own digital DNA to create life-changing products, engage their customers, and empower employees.
+This vision requires a global network of talented people who can realize their full potential. We believe the best software will be built by those who are inspired by their work, can choose their work environment, and are rewarded for pure contribution—in the company of equally passionate colleagues.
+
+
+About the Gigster Talent Network:
+We are changing the way software is built by empowering independent experts with smarter tools. We believe that by being the best place to freelance we will attract and retain the best talent, and in turn, provide the best service. Gigster takes pride in having an extraordinary global network of developers, designers, project and product managers.
+The Gigster Talent Network is a global community of vetted and expert freelancers, who have a passion for creating impactful software. Spanning 40+ countries and covering a wide range of professional experience, the designers, product managers, data scientists, and software engineers on the Gigster Talent Network collaborate on teams to deliver digital transformation projects for Gigster’s enterprise clients. To be the best place to freelance, Gigster empowers members of the Gigster Talent Network with smarter tools, workflows, and access to industry expertise. We are changing how software is being built and shaping the future of work.
+
+Who we are looking for:
+Gigster is looking for DevOps Engineers to help build great products for customers. As a DevOps Engineer in the Gigster Talent Network, you will work within a team of freelancers, including various freelance roles (Project Manager, Technical Architect, Designers, etc.) and have access to different software projects for exciting startup and enterprise clients. Every client project has a Product Manager, who will provide you with detailed specs and will be the go-between you and the client, as well as freelance software engineers and designers. You will be responsible for delivering on pre-determined milestones, typically on a bi-weekly basis, and will be compensated for each completed milestone.
+
+Our ideal candidate:
+Experience building and scaling distributed applications and systems.
+Deep professional and personal project-based experience. Ideally, you have developed successful software in production environments. Bonus if you have worked on large-scale, public, or client-side applications
+Thrive working collaboratively in teams. Even better, if you have worked in distributed team settings.
+You should be excited about delivering beautiful, maintainable, bug-free code to spec, and meeting or beating deadlines.
+Passion for learning new programming languages (React, Node, Go, Ruby, etc.).
+Experience working as a freelancer.
+Education from top universities in Computer Science, Physics, or Mathematics, or equivalent experience.
+
+Requirements:
+5+ years of professional DevOps experience.
+Extensive knowledge of software build, test and deploy processes using Git, Jenkins, Chef, Docker/containers, Kubernetes
+Experience (5+ years) coding modern programming languages: Node, React, Java, Python, Ruby, Go,, etc.
+Experience with AWS (EC2, S3, RDS), GCP, Azure
+Strong communication skills, especially among audiences with differing technical backgrounds.
+Experience with Agile development methodologies
+Experience with responsive designs
+Proficiency with Git/Github or other distributed version control systems
+Proven success in contributing in a team-oriented and fast-paced environment
+
+What we offer:
+Flexibility - work from anywhere in the world!
+Community - A warm and welcoming community of freelancers who love what they do.
+Competitive Pay - get paid San Francisco rates, even if you don’t live in San Francisco.
+Opportunity - make an impact by working on meaningful projects.
+Support - 24/7 support from our dedicated Engineering Support Team.
+
+NOTE: There are multiple currently available within the Gigster Network. Please apply only to the one that you believe is best suitable for your skills.",https://www.linkedin.com/jobs/view/3111904043/?eBP=JOB_SEARCH_ORGANIC&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=AdZsgMMsDIop5iPwIhN%2Fbg%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Gigster,1 week ago,Contract · Mid-Senior level,APAC
+12,12,"Bentley Systems
+
+Position Summary
+
+Bentley Systems, Inc is looking for an 0-2 years’ experience Software Engineer to join the usage logging and entitlement services team in our Islamabad, Pakistan office. As a member of this team, you’ll have the opportunity to learn and work with cutting edge cloud platforms within Microsoft Azure. You will also be instrumental in expanding Bentley’s microservice infrastructure using technologies such as Azure Service Fabric and Kubernetes. In this exciting and challenging role, you will work with a high-performance, global team of engineers who are dedicated to providing our customers with stable and scalable infrastructure.
+
+Essential Skills
+BS or MS in Computer Sciences or Software Engineering from a recognized institute.
+Candidates with up to 2 years’ experience can apply.
+Strong conceptual and practical foundation of core Computer Science concepts including Algorithms, Data Structures, Operating Systems and Object Oriented Programming.
+Strong programming concepts and knowledge of C#, C++.
+Excellent problem-solving ability.
+Good verbal and written communication skills in English.
+Independent, Self-motivated and goal-orientation.
+Knowledge of distributed version control system like git.
+Working experience of Azure DevOps and Agile Development methodologies like SCRUM.
+
+Preferred Technical Skills
+Experience in Azure Cloud technologies e.g. Azure Service Fabric, Azure Function ,Azure Data Factory, Azure SQL DW, Spark, Databricks.
+Basic knowledge of Azure Blob Storage, Azure Cosmos DB, Azure Table Storage and Azure Service Bus.
+Experience of working with different .NET Frameworks.
+Basic Knowledge of PowerShell.
+Experience with Azure REST APIs and Azure Services SDKs.",https://www.linkedin.com/jobs/view/3117841616/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=wucwLuCd9nAPeKeHf2qsGg%3D%3D&trk=flagship3_search_srp_jobs,Associate Cloud Software Engineer,Bentley Systems,1 month ago,Full-time,"Islamabad, Islāmābād, Pakistan"
+13,13,"About Us
+
+Gelato has built the world's largest and most global network for on-demand production of customized items e.g. t-shirts, wall art, mugs, books, hoodies, and cards. We support a new wave of e-commerce entrepreneurs and the global shift towards local and more sustainable production.
+
+In many ways, we at Gelato are rethinking how digital fabrication of customized products can be done on-demand. Just imagine what will happen when we add 3D printing capabilities to this global service. We are already empowering thousands of e-commerce entrepreneurs to grow and scale their businesses.
+
+Gelato Engineering
+
+We own no physical production assets, nor servers, instead our asset is a cloud based connectivity platform that enables world-class on-demand production for e-commerce platforms and applications. This engineered platform needs to provide our customers access to more than 100 production partners in 32 countries and includes production plate design, routing to an appropriate partner, finally linking to logistics’ systems for delivery to the consumer. All this in 72 hours and reaching more than 5 billion people and potential consumers in a smarter, faster, and greener way.
+
+We have a multicultural Engineering team of over 50 people working in 5 countries who build, grow and maintain our applications and platform. Our engineering landscape provides the technology to extend our capabilities and features across 3 customer facing applications: Optimalprint, Globe and Gelato API plus the digital connectivity platform. The employed technologies range from backends using PHP and GoLang to mobile apps built natively or with hybrid technology, running on cloud services and with a modern CI/CD pipeline.
+
+We are flexible on location and building our teams in Singapore, India, Pakistan and Brazil.
+
+About The Position
+
+What you will do
+Improve the efficiency and reliability of Gelato’s path to production, working directly with the development teams by providing the most efficient DevOPS service
+Develop and improve the CI/CD process and monitoring of Gelato’s infrastructure and services
+Build Infrastructure as Code (IaC) with automation first approach and Drive the DevOps culture within Gelato Engineering teams.
+Take pride in keeping the platform up all the time, including taking part in on-call rotation
+
+Who you are
+A minimum of M.S. degree in Information Technology or Computer Science or 5+ years in a DevOps role working closely with development teams
+Experience building and handling cloud-native services preferably in AWS
+Deep expertise in delivering and supporting Kubernetes (EKS) hosted microservices
+Experience with Terraform for Infrastructure as Code, release of Kubernetes services using CI/CD tools and Helm
+Experience in Python scripting
+
+You’ll get to work with:
+Go, Terraform, Ansible, Helm, Helmfile
+Postgres, Redis, Memcache, RabbitMQ
+AWS, Kubernetes, CircleCI
+
+What we offer
+
+We offer you a chance to be part of a truly amazing journey in a company that sets very high targets and works hard to achieve them. You will be able to work with smart, motivated and engaged co-workers from all over the world, in an intense and very energetic environment. This leads to you having a tangible impact on the way that we operate and expand our business.
+
+Some of the highlights of the package include:
+Strong technical culture of continuous innovation and improvement
+Chance to become a shareholder of Gelato!
+Flexible festive holidays, swap days off according to your values and beliefs.
+Work at one of our hub city offices or even remotely
+And much much more!
+
+Want to learn more?
+We believe that Culture is important so we wrote about it! Check it out here
+You can find out more about why we created Getalo and read our CEO’s open letter
+We even made a film about why and what we do! Watch on Vimeo
+Out and about? Why not listen to a podcast about Gelato on Spotify
+And of course when you meet us, please ask questions about these topics!
+
+To Sum Up
+
+As we continue to grow we want you to grow with us and for the right candidate, there is no limit to where this opportunity might take you. Together we can increase global GDP by effectively supporting local sustainable on-demand production.",https://www.linkedin.com/jobs/view/3109564515/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=Isdij0d1Q8AUIzVpKUTZrg%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Gelato,1 month ago,Full-time · Entry level,"Lahore, Punjab, Pakistan"
+14,14,"About Us
+
+Love, Bonito is the leading vertically integrated, omnichannel womenswear brand in Southeast Asia today. Officially founded in 2010, we have grown to over 300 people strong and are proudly headquartered in Singapore with an omni-channel presence in Indonesia, Malaysia and a retail franchise in Cambodia. In addition, we ship internationally to 19 countries including Australia, Brunei, Cambodia, Canada, Hong Kong SAR China, Indonesia, Japan, Macau, Malaysia, Myanmar, New Zealand, Philippines, Saudi Arabia, Singapore, South Korea, Taiwan, Republic of China, United States of America and Vietnam
+
+We recently clinched US$50million for our Series C funding and have plans to venture deeper into and beyond fashion, to be a true life partner for the everyday Asian woman.
+
+The team
+
+The Love, Bonito team is a passionate, dynamic, innovative and fun-loving family. From fashion-lovers, savvy marketers to tech whizzes, we have a diverse team of talented individuals with one unified focus - our customer, the Love, Bonito woman. She is at the heart of everything we do and we pride ourselves in always taking an innovative, data-centric yet considerate approach in creating the right experiences, products and content for her. With big dreams and a grand mission, we’re looking for great like-minded people to join us - people who are as passionate, fearless and entrepreneurial.
+
+If you’re looking for a dynamic, no corporate-BS environment to learn, grow, and really make an impact, we could be the perfect fit for you!
+
+The Role
+
+This role will be a remote role - you can work from the comforts of your home!
+
+We are looking for people willing to work in an agile environment learning and gathering new technologies and related tools to introduce to the company. Our current infrastructure stack is managed using Terraform, Kubernetes, Helm, Gitlab, and AWS.
+
+What we are looking for (ideally) in the candidate:
+Have Ecommerce experience
+Containerization of web applications
+Logging, tracing and monitoring of services
+Managing Application components like Database, Redis, etc
+Work more closely with web application components and its CI/CD.
+Monitoring of current infrastructure
+Flagging and resolving infrastructure issues
+Need to improve the automation of flagging and recovery
+
+Note: We are moving from monolithic to microservice architecture so the person needs to help in defining the optimized strategies and infrastructural change. We are also scaling to global markets and therefore would need the person to optimize performance, cost and availability across different regions
+
+Main Responsibilities:
+Create a maintain the Deployment Pipelines following the best CI/CD practices
+Create and manage Dashboards in Datadog
+Optimize cost and use of our AWS account
+Define de best stack for our company
+Update and maintain our infrastructure as a code
+Ensure a 99.9% availability across all our services
+Help define and implement incident response management strategy
+Work alongside project management teams to successfully monitor progress and implementation of initiatives
+Mentor and train other engineers throughout the company and seek to continually improve processes companywide
+Work closely with engineering professionals within the company to maintain hardware and software needed for projects to be completed efficiently
+Assist other department engineers in creating practical demonstrations of proposed solutions
+On-calls when the systems have some emergencies
+Keep our system safe applying the best practices
+Work with ITOPs team to also provide solutions for VPN, Radius and others
+You can find our Tech Stack HERE
+
+Requirements
+
+Qualifications & Experience
+Experience developing continuous delivery pipelines
+Work experience with Kubernetes over AWS
+Experience creating Dashboard in Datadog
+Advance knowledge of Bash Scripting
+Current understanding of best practices regarding system security measures
+Advanced education and application of business analysis techniques and strategy
+Experience working together with teams from several departments to facilitate the orderly execution of a proposed project plan
+Professional experience and a high-level understanding of working with various operating systems and their implications
+
+Benefits
+A dynamic, no corporate-BS environment to learn, grow, and really make an impact
+Competitive salaries
+Remote Work Stipend
+Laptop Stipend
+Forward thinking tech stack
+Supportive and awesome international teammates",https://www.linkedin.com/jobs/view/3103135137/?eBP=JOB_SEARCH_ORGANIC&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=2FmAY5fkKU8dr3%2FF1v01PQ%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer (Remote - Pakistan),"Love, Bonito",1 month ago,Full-time · Mid-Senior level,"Lahore, Punjab, Pakistan"
+15,15,"Spekit is the new way to learn in today’s remote, digital workplace. Say goodbye to distracted zoom training sessions and lengthy LMS courses your teams will forget. Instead, Spekit takes all of your training & enablement - for applications, processes, sales playbooks, SOPs and more and embeds that training directly in your employees’ tools & workflows, right when and where they need them. Whether that’s a walkthrough to guide you through creating a quote in Salesforce or a competitor battle card to handle an objection in email, Spekit is your learning companion every step of the way.
+
+The world’s most innovative companies including Uber Freight, Outreach, Snowflake, Southwest Airlines and Udemy leverage Spekit to accelerate onboarding, drive tool adoption increase productivity, remove the friction of change management and fuel the growth of their employees - from anywhere.
+
+With $60M in VC funding from top venture firms including Craft Ventures, Bonfire Ventures and the Foundry Group, Spekit is the rocket ship you’ll want to be on as we reinvent the future of learning at work.
+
+Description Of Role
+
+Spekit’s Infrastructure Team is looking for a highly motivated Site Reliability Engineer to solve interesting challenges in a broad range of areas including releases/deployments, CI/CD, scaling, site reliability, production operations, automation tools and scripting, monitoring, alerting, and security.
+
+Must Have Requirements
+Python Development (frontend/backend, boto3, DevOps tools)
+Solution Architecture of modern cloud SaaS Environments and Infrastructure
+High Availability and Site Reliability of Infrastructure (automation, monitoring, scaling, alerting)
+Production Engineering or Management of Enterprise SAAS web applications (Nginx, Node.js, Gunicorn, etc)
+DevOps Tools Automation of Cloud Environments (CICD, AWS, Python, Terraform, Packer, etc)
+Web Application Development or Management (Nginx, Node.js, Gunicorn, etc)
+Application and Linux System Troubleshooting
+Proficient working in a cloud based Linux CLI environment
+Knowledge and understanding of network protocols (HTTP/S, SSH, SSL, DNS)
+
+Desired Experience
+Proficiency in of any of the following:
+PostgreSQL, Redis, RabbitMQ, ElasticSearch
+AWS (EC2, IAM, Lambda, IAM)
+Jenkins, Terraform, Puppet, docker, kubernetes, vault
+Things we value, culture-wise
+Team Player. We believe that customer experience starts with your employee experience and as such, we believe in collaboration, transparency, integrity, trust, listening, doing what is right, and always going above and beyond for our team.
+Grit & Growth. We run towards challenges. If something seems unsolvable, it unleashes our persistence, our creativity, and our ability to move through uncertainty to create a solution.
+Positive & Purposeful: We’re a collaborative team of innovators and are always looking to think 3 steps ahead of our competition. We think at scale, imagine what’s possible and then work our way backwards with an MVP approach to everything we do.
+Simple yet Spektacular. We’re in the early stages of building something really great and that requires a lot of hands on deck and a focus on execution. In this journey, we uncover joy in simplicity, obsess over the experience, pivot quickly and always reach for excellence.
+Open-Minded. We are a diverse group of lifelong learners. We approach our work with curiosity and constantly look for ways to improve our products and ourselves, never settling for good enough.
+Work Smart and Be Present: As a startup, it can feel like you’re racing against the clock at all times – where “more” is the only path forward. We believe that you do your best at work when practicing mindfulness, getting the right amount of sleep and prioritizing the things that truly matter in life.
+Enjoy the Journey. Love what you do and who you do it with! We embrace joy and kindness and we bring our authentic selves to work each day. We seek to share our optimism and compassion with everyone around us.
+
+About The Team
+
+At Spekit, we strive to be the change we seek. And the change we seek is a wealth of diversity in technology and the workplace. As a company with two female founders, we know that diverse and inclusive cultures drive innovative results. We’ve committed as an organization to elevate underrepresented minorities in technology through awareness, partnerships and even hosting our own scholarships to do our part in changing the status quo.
+
+If this sounds like the right place for you, we'd love to chat!",https://www.linkedin.com/jobs/view/3076499927/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=UAxt%2BMuUVe0c48TDF51TGw%3D%3D&trk=flagship3_search_srp_jobs,Site Reliability Engineer (US Time),Spekit 🐙,1 week ago,Full-time · Entry level,"Karachi Division, Pakistan"
+16,16,"We are changing the automotive industry in Pakistan, we are changing how millions of Pakistanis buy and sell cars and bikes, how they make their decision, how they do their research, etc.
+
+Join us and be part of this revolution!
+
+Responsibilities
+Architect fully automated CI/CD patterns utilizing cloud technologies
+Perform architecture and security reviews, identify gaps and develop remediation plans.
+Define, document, and maintain a strategic DevOps architecture roadmap
+Be a champion for DevOps, bringing consistency and best practices in our approach, tools, and standards, and ensuring that DevOps strategy is implemented at every stage of the end-to-end development.
+Ensure that Day to Day support and maintenance of these systems is managed within best practice guidelines which includes dealing with escalations as well as communications and stakeholder management
+Dive deep to resolve problems at their root and troubleshoot services related to infra or data stack in our AWS/Azure/Google cloud infrastructure.
+Requirements
+3+ years of experience working as a DevOps Engineer.
+Experience with Amazon Web Services (EC2, VPC, ELB, S3, Cloud Formation, etc.)
+Experience with configuration management (Chef, Puppet, Ansible, and/or Salt)
+Experience with CI/CD tool chain (Jenkins, Kubernetes)
+Knowledge of high availability, disaster recovery, auto-scaling and auto-healing concepts
+Experience in both horizontal and vertical scaling of backend systems
+Certifications in AWS, Azure and GCP would be a plus
+PakWheels.com was formed in 2003 and has become the largest community-based automobile website in Pakistan with more than 500,000+ registered car and motorcycle enthusiasts. Around 40 Million pages are viewed on the site every month, with people searching classifieds, researching about brand new cars and motorcycles, discussing auto-related issues with other members, sharing information, pictures, videos, etc.",https://www.linkedin.com/jobs/view/3012265252/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=YxiahMd22I4ADVxFDulZqg%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer - Lahore,PakWheels.com,2 months ago,Full-time · Entry level,"Lahore, Punjab, Pakistan"
+17,17,"We are looking for Cloud/ Site Reliability Engineer for our IIS applications.
+
+Key Responsibilities
+
+Run the production environment by monitoring availability and taking a holistic view of system health
+Build software and systems to manage infrastructure and applications
+Improve reliability, quality, and time-to-market of our suite of software solutions
+Measure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating to continually improve
+Provide primary operational support and engineering for multiple large distributed software applications
+
+Requirements:
+
+Bachelor’s degree in computer science from a recognized university.
+Cloud/ Site Reliability Engineer with 1 to 7 years of experience
+Polyglotism with at least Java, Python, and/or Golang knowledge and multiple years of delivering production-grade code under your belt.
+Cloud-native application architecture and selection of right cloud services.
+Pricing and cost optimization.
+Experience running software in the cloud preferably Azure and being on call.
+Experience with Kubernetes, Docker, and Ansible (or similar such as Terraform, Cloud Formation, etc.)
+Growth mentality, willingness to share ideas and continuously improve yourself and the team around you.
+Familiar with building distributed and scalable systems.
+Optimizations and Performance Improvement techniques.
+Self-motivated individuals who take pride in their work.
+
+Desired Skills:
+
+Can set up production environments on Cloud with CI/CD.
+Can architect and develop IoT applications using Azure IoT and ML Services. (IoT Hub, Event Hub, Azure Stream Analytics, Azure Machine Learning, ML Flow, and Azure Data Explorer)",https://www.linkedin.com/jobs/view/2830251354/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=yK9R4wGrWg9MYgSSN%2FQvbg%3D%3D&trk=flagship3_search_srp_jobs,Cloud / Site Reliability Engineer,INTECH Process Automation,7 months ago,Full-time,"Lahore, Punjab, Pakistan"
+18,18,"Posted by
+Sahar Nasir
+Technical Recruiter | Human Resources Manager
+Send InMail
+We are looking for a DevOps Engineer for our fast-growing business Capability, Knowledge &
+Expertise.
+Experience: 5+ years Minimum (AWS Certified Preferred)
+Has demonstrable experience delivering high availability auto-scaling containerized
+deployments in AWS.
+• A demonstrable understanding of the full Software Delivery Lifecycle.
+• Serverless API structure experience.
+• Having experience in setting up chat servers Openfire and EJabbered.
+• Kubernetes & Docker experience.
+• Experienced in setting up VOIP servers.
+• Experienced in setting up CDN with S3 buckets to improve data latency.
+• Has experience working closely with IT Operations, and IT Development teams.
+• In-depth understanding of continuous integration, continuous delivery, software
+configuration management, version control, and release management.
+Technical Skills Required:
+• Cloud Computing services, specifically AWS.
+• Containerization such as Docker.
+• Version control solutions, specifically Gitlab and GitHub.
+• DevOps methods (integration & automation).
+• Continuous integration, continuous delivery/deployment tooling such as Jenkins.
+• Good knowledge and hands-on experience in Database technologies MS-SQL, My SQL,
+MongoDB.
+• Experienced setting up DynamoDB.
+• Working within Scrum, Kanban, or Lean methodologies",https://www.linkedin.com/jobs/view/3124594516/?eBP=JOB_SEARCH_ORGANIC&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=FOU%2FdiZOasmBmDWJ2JGL3A%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Venture Desk,1 week ago,Full-time,"Lahore, Punjab, Pakistan"
+19,19,"Snaphunt is a fast growing global remote hiring platform. We help almost 10,000 companies build global teams with remote talent across 91 countries.
+
+Snaphunt's vetted talent solution 'Snaphyre' provides employers with access to vetted remote talent so that they can build their teams with ease. Towards this, we are looking for talented engineers interested in remote opportunities across multiple areas for our portfolio of clients.
+
+The Role
+
+As a DevOps Engineer, you will build scalable infrastructure for various applications and services of the organisation.
+
+You Will Be Responsible For
+Using open-source software or cloud services to design and create software infrastructure that allows huge data intake to be transported smoothly and made available for machine learning-based underwriting and business analytics.
+Creating and implementing software and tool chains that will aid in the product's end-to-end evolution and growth.
+Developing secure, maintainable and reusable software solutions and code reviewing.
+Analyzing and systematically tackling reported requirements and bugs, and devising viable short- and long-term solutions that minimize complexity while maximizing value.
+Collaborating with internal teams like Product Support engineers, Backend and Frontend engineers and QA engineers.
+Ideal Profile
+You possess a Degree/Diploma in Computer Science, Engineering or related field.
+You have 4+ years of experience, ideally as a backend developer including at least 1 year of DevOps experience.
+You are proficient in Public Clouds technology platforms (preferably Google or AWS).
+You have experience in database management, such as in RDBMS, NoSQL, in-memory data storage, or big data infrastructure.
+You possess strong analytical skills and are comfortable dealing with numerical data
+You pay strong attention to detail and deliver work that is of a high standard
+You are a strong team player who can manage multiple stakeholders
+What's on Offer?
+Join a recently funded high-growth startup
+Enjoy flexible working options",https://www.linkedin.com/jobs/view/3086226470/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=qo7uLem2jsmvV27DPLhGhQ%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer (Immediately Available),Snaphyre,1 month ago,Full-time · Entry level,Pakistan
+20,20,"Agency Partner Interactive is looking for a conversant DevOps Engineer with all the technical as well as IT operations skills for integrated operations. You are expected to know about the various automation tools which may be required for process automation and testing
+
+What You Will Be Doing
+Setting up tools and required infrastructure
+Defining and setting development, test, release, update, and support processes for DevOps operation
+Analyzing and reviewing, verifying, and validating the software code developed in the project
+Troubleshooting techniques and fixing code bugs
+Monitoring the processes during the entire lifecycle for its adherence and updating or creating new processes for improvement and minimizing the wastage
+Encouraging and building automated processes wherever possible
+Identifying and deploying cybersecurity measures by continuously performing vulnerability assessment and risk management
+Coordination and communication within the team and with customers
+Mentoring and guiding the team members
+Understanding of disaster recovery methods and procedures
+Managing stakeholders and external interfaces
+Maintaining, building and releasing pipelines and troubleshooting errors/issues
+Creating and managing infrastructure for applications that meet the needs of scalability, reliability, and performance
+Skills You Bring To The Table
+Minimum Graduate preferably BSCS or equivalent
+3-4 years of DevOps experience working in an international software house with AWS CLI
+Hands on experience in Linux and windows server for migrations of applications and websites
+Knowledge of malware cleaning and DDOS attacks
+Configuration and managing databases such as MySQL, Mongo DB
+Excellent troubleshooting
+Working knowledge of various tools, open-source technologies, and cloud services
+Awareness of critical concepts in DevOps and Agile principles",https://www.linkedin.com/jobs/view/3128441580/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=q4%2F0O9DyQgSW9n%2BtzF%2BILw%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Agency Partner Interactive,5 days ago,Full-time · Mid-Senior level,"Karachi Division, Pakistan"
+21,21,"Posted by
+Nahdi Siddiqui
+On a lookout for Senior Full Stack DotNet Core Developers | SCRUM Masters | DevOps Engineers
+Send InMail
+Job Specifications:
+
+Mandatory Skills:
+1) Must have experience in DevOps toolchain like Azure Pipelines, Jenkins, Flux CD, Argo CD, etc and setting up CI/CD pipelines.
+2) Experience in deploying containerized applications.
+3) Knowledge of Kubernetes and deploying workloads in container orchestrators.
+4) Experience in Infrastructure as Code tools like Terraform, Ansible, ARM, Chef, Puppet etc.
+5) Good understanding of DevOps, GitOps and Agile principles.
+
+Good to have:
+1) Building and setting up new development tools and infrastructure.
+2) Ensuring that systems are safe and secure against cybersecurity threats.
+
+Calrom's Benefits & Perks:
+Medical Insurance (OPD/IPD) for self & dependents (Spouse, children and as well as Parents). Opportunity to work in UK (for senior resources).
+Pension Scheme Fund (Applicable after Probation Period).
+(PDP) - Personal Development Program.
+EOBI.
+Career Progression and Clear Career Path (SIFA based).
+Company Provided Lunch Everyday.
+Open Plan Environment.
+Company Sponsored Recreational (Local) Trips, Every Year.
+Company Celebration Dinners (e.g) Annual dinners, Iftar dinners. Etc.
+Company Paid Sports Activities.
+Onsite Secured Parkings for your Cars and Bikes.
+Company Paid Professional Certifications.
+Monthly Birthday Celebrations of Employees.
+Bi-annual Bonuses and Referral Bonuses.
+Mobile Allowance (for Senior Software Engineers / Data Engineers).
+Leave Bank & Encashment Policy.
+Gym Passport.
+W O R K - L I F E - B A L A N C E.
+
+Work Place Location: Tricon Corporate Centre, (next to Siddique Trade Centre), Jail Road, Lahore.
+Apply / Refer in confidence at: nsiddiqui@calrom.com",https://www.linkedin.com/jobs/view/3129329489/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=zjseT3Yrfl3zJyGQt2upnw%3D%3D&trk=flagship3_search_srp_jobs,Azure DevOps Engineer,Calrom,4 days ago,Full-time,"Lahore, Punjab, Pakistan"
+22,22,"About The Job
+
+Toptal developers work with speed and efficiency to deliver the highest quality of work. We are looking for someone who is passionate about their client’s business, and ready to work on exciting projects with Fortune 500 companies and Silicon Valley startups, with great rates and zero hassles. If you are looking for a place to advance your career, enhance your skill set, and build connections around the globe, Toptal is right for you.
+
+About Toptal
+
+Toptal is an exclusive network of top freelancers from around the world. Fortune 500 companies and Silicon Valley startups hire Toptal for their most important projects. Toptal is one of the fastest-growing fully remote networks and empowers freelance software developers, designers, finance experts, product managers, and project managers worldwide to grow and excel in their freelance careers. Toptal clients vary in sizes and industries, from enterprise organizations and big tech companies to Silicon Valley startups and renowned universities. Once you enter the network, our matchers will contact you with project opportunities that fit your expertise and preferences. We have experts in over 120 countries who get to work remotely on projects that meet their career ambitions. About the role We’re looking for a DevOps Engineer (independent contractor) with a strong Linux and AWS background, who will help us build scalable, efficient cloud infrastructure for our clients. Some of your main responsibilities will include: (1) implement and own the CI, (2) manage CD tooling, (3) implement and maintain monitoring and alerting, (4) build and maintain highly available production systems, and (5) lead and guide the team in identifying and implementing new technologies. Lastly, you’ll help train and guide the team in DevOps practices. Requirements
+English language proficiency
+3+ years of professional experience in software development
+Solid experience with AWS is a strong advantage
+Project management skills
+A keen attention to detail
+Experience with system architecture or leading a software team is a strong advantage
+Full-time availability is a strong advantage
+If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form to get started.
+
+#TopOpportunities #RemoteJobDevOps",https://www.linkedin.com/jobs/view/3133199595/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=zTntEjmElMz9mFbisb3LNQ%3D%3D&trk=flagship3_search_srp_jobs,Freelance DevOps Engineer,Toptal,23 hours ago,Contract · Mid-Senior level,Pakistan
+23,23,"The Team: S&P Global DevOps team is a creative team of experts collaborating across divisions and driving continuous improvements in platform innovation and usability.
+
+The Role: We are looking for a highly motivated DevOps Engineer to join our Platforms & Operations Engineering team supporting Container Platform as part of our DevOps transition. The Container platform is built using latest technologies such as Docker Enterprise and Kubernetes and is hosted in our on-premises data centers as well as in the cloud. You would help accelerate our growth as part of SOA team within Platforms & Operations Engineering organization. This is an excellent opportunity to join S&P Global as we transform our infrastructure and move into the cloud, while also developing your skills and furthering your career as we plan to power the markets of the future.
+
+S&P Global DevOps team is a creative team of experts collaborating across divisions and driving continuous improvements in platform innovation and usability.
+
+What We Are Looking For
+
+We are looking for a highly motivated DevOps Engineer to join our Platforms & Operations Engineering team supporting Container Platform as part of our DevOps transition. The Container platform is built using latest technologies such as Docker Enterprise and Kubernetes and is hosted in our on-premises data centers as well as in the cloud. You would help accelerate our growth as part of SOA team within Platforms & Operations Engineering organization. This is an excellent opportunity to join S&P Global as we transform our infrastructure and move into the cloud, while also developing your skills and furthering your career as we plan to power the markets of the future.
+
+Required Qualification, Skills And Experience
+BS in Computer Science, Engineering or in equivalent discipline is required.
+3-5 years of relevant work experience managing platform and/or infrastructure.
+2-3 years of experience in DevOps and container platform such as Docker Enterprise or Kubernetes is required.
+Hands-on industry experience of AWS is a must.
+Experience in managing and administrating Container platform using Kubernetes is a must
+Experience with EKS is preferable.
+Good hands-on experience with Linux/Unix and Windows OS.
+Tasks And Responsibilities
+Work together with various domestic and overseas teams across the organization to ensure that DevOps platform is reliable, operational, performant, and meets business requirements as well as committed SLA. DevOps platform consists of AWS DevOps & Jenkins based CI/CD Pipelines and Docker/Kubernetes based Container Platform.
+Setup, configure and monitor CI/CD Pipelines and Container platform; conduct routine maintenance work for smooth operation with guaranteed uptime.
+Onboard applications onto the DevOps platform as demands come.
+Assist various DEV and QA teams during their development and testing following the guidelines provided.
+Work closely with supervisor/manager in day-to-day operation activities.
+Conduct and/or assist in conducting regular capacity analysis and POCs.
+Develop and maintain the platform automation tools, dashboard and utilities (Java, .NET C#, shell scripting, python etc.).
+Provide support for Production, DR and lower environments making sure platform is stable and highly available.
+Equal Opportunity Employer
+
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.
+
+US Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.
+
+IFTECH202.1 - Middle Professional Tier I (EEO Job Group)
+
+Job ID: 273951
+
+Posted On: 2022-06-07
+
+Location: Islamabad, Pakistan",https://www.linkedin.com/jobs/view/3115273295/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=%2FdvcpdLXAQSV29wl4th0eg%3D%3D&trk=flagship3_search_srp_jobs,Cloud Engineer III,S&P Global Market Intelligence,1 week ago,Full-time,"Islamabad, Islāmābād, Pakistan"
+24,24,"The Division
+
+Harris ERP has been providing Enterprise Resource Planning software exclusively to the public sector for more than 30 years. We understand the challenges government agencies face to find software that is able to meet both current and future requirements. That's why our native Web-based, modular architecture, and flexible design provide you with a solution that is configurable, adaptable, and easily evolves along with your enterprise needs.
+
+The Position
+
+The Software Deployment Engineer works remotely with, the TechOps team to deploy, upgrade, and support on-premise and cloud clients of the Harris ERP software.
+
+Responsibilities
+Performs application installs and server setup and server migrations.
+Ongoing communication with customers and team members.
+Working around customer schedules for downtimes.
+Performance tuning.
+Availability in an off-hours customer server-related emergency.
+Use a variety of tools for deployment and configuration management.
+Committing to uphold internal processes for efficiency and organization
+Maintaining relationships and coordination with our cloud hosting vendor. This includes monitoring VM health and resource allocation, and working with the vendor on improving the cloud infrastructure, handling customer outages.
+Work under DevOps Manager for team direction and project planning.
+Complete all assigned goals and tasks on time.
+Required Qualifications & Skills:
+Required:1-2 years of experience as a Software Deployment Engineer
+Required: Ability to prioritize and delegate
+Required: Innovative thinking skills for improving installations and upgrades as we move towards CI.
+Desired: Experience using scripting tools (Python, etc.)
+Job Timings : 12:00 AM- 09:00 AM
+
+Exciting Benefits We Offer
+Market-leading Salary
+Medical Coverage – Self & Dependents
+Parents Medical Coverage
+Provident Fund
+Employee Performance-based bonuses
+Home Internet Subsidy
+Conveyance Allowance
+Profit-Sharing Plan [Tenured Employees Only]
+Life Benefit
+Child Care Facility
+Company Provided Lunch/Dinner
+Professional Development Budget
+Recreational area for in-house games
+Sporadic On-shore training opportunities
+Friendly work environment
+Leave Encashment",https://www.linkedin.com/jobs/view/3068142077/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=Jm2ISNjyQT9Wb5JVe8UPqQ%3D%3D&trackingId=atSpzOWaHkIuP%2Bjkpmucsw%3D%3D&trk=flagship3_search_srp_jobs,Software Deployment Engineer,Contour Software,2 months ago,Full-time · Entry level,"Islamabad, Islāmābād, Pakistan"
+25,25,"We have an opening for a Senior DevOps Engineer with 3+ years of experience. Apply if you are passionate about new technologies and have the required experience. We intend to hire only the best, provide them with challenging work and significant responsibility, and reward them significantly above market standard.
+
+Responsibilities
+Assist in designing, transitioning and deploying of applications to various clouds.
+Design and operate tests to establish application resilience and overall system health through various testing methodologies.
+Responsible for application configurations in different cloud environments
+Proactively monitor, identify, and escalate issues or root causes of systemic issues.
+Demonstrate willingness to take feedback and adapt solutions where appropriate.
+Interact with other team members to incorporate their innovations and vice versa.
+Be the consummate team player with a demonstrable ability to learn quickly. Amazing ability to get stuff done.
+Minimum Qualifications
+BS or MS degree in Computer Science or a related technical field.
+Experience in 24x7 operations, overseeing sites with constant high traffic.
+Experience with continuous integration, delivery, and related tools (e.g. Git, Maven, Ant, Jenkins) in Dev, QA, Staging, and Prod environments.
+Extensive experience with Linux, particularly RedHat/CentOS, SSH, Nginx, etc.
+Experience with setting up or utilizing monitoring tools, e.g. Nagios, GrayLog, Logstash, Monit, PagerDuty, Splunk, Dynatrace.
+Extensive experience in working with Docker containers.
+Experience collaborating with multiple teams.
+Understand the metric requirements of system/application health.
+Knowledge and experience with HAProxy, Tomcat, Node.js, etc.
+Passionate about operational excellence and documentation.
+Good written and verbal communication skills.
+We have an amazing team of 500+ individuals working on highly innovative enterprise projects & products. Our customer base includes fortune 5 retail and CPG companies, leading store chains, fast-growth fintech and multiple Silicon Valley startups.
+
+What makes Confiz stand out is our focus on processes and culture. Confiz is CMMi Level 3 and ISO 9001:2015 certified. We have a vibrant culture of learning via collaboration and making workplace fun.
+
+People who work with us work with cutting-edge technologies while contributing success to the company as well as to themselves. This is obviously above and beyond the usual stuff (excellent pay, medical benefits, frequent appraisals and bonuses).
+
+To know more about Confiz Limited, visit: https://web.facebook.com/lifeatconfiz",https://www.linkedin.com/jobs/view/3130178053/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=xqFGUNhKsQczB1XmkiBnFw%3D%3D&trk=flagship3_search_srp_jobs,Senior DevOps Engineer,Confiz,5 days ago,Full-time · Associate,"Islamabad, Islāmābād, Pakistan"
+26,26,"Dockers® est certes une marque de vêtement business casual, mais ce n'est pas la première chose auquel vous pensez lorsque vous entendez ce mot. De même, le mot Cloud ne vous rappelle en rien vos parties endiablées de Final Fantasy VII sur votre bonne vielle Playstation.
+
+En effet, vous pensez que vous obtiendrez, toujours, beaucoup plus en demandant avec le mot magique ""sudo"" qu'avec la formule ""s'il vous plaît"".
+
+Enfin, vous savez être agile sans pour autant faire le grand écart.
+
+Si tel est le cas, vous êtes sûrement un ingénieur DevOps et donc...
+
+Vous devriez rejoindre INGENIANCE.
+
+INGENIANCE est une Entreprise de Service Numérique. Depuis 2005, elle accompagne les entreprises à la fois dans leur transformation digitale et l'expertise métier.
+
+Nous apportons notre valeur ajoutée en associant innovation technologique, transformation digitale, expertise métier (Banque, Finance et Assurance) & méthodes agiles
+
+Quelles seront vos missions ?
+
+Dans Ce Cadre, Vous Contribuerez à
+
+Vos missions s'inscrivent dans un contexte de travail Agile, au sein des équipes infrastructures en charge des projets autour de l'automatisation des chaines CI/CD, des migrations vers le Cloud ou encore de la sécurisation des différents environnements logiciel.
+Industrialiser la production logicielle et son processus de validation de la qualité: en se reposant sur l'usine d'intégration et de déploiement continus (CI/CD)
+Contribuer à l'automatisation du déploiement des applications et des infrastructures dans un modèle d'architecture technique basée sur le Cloud
+Définir et implémenter un service logiciel automatique qui supporte les principes IaC (Infrastructure-as-Code).
+Appuyer l'automatisation des tests sur la chaîne de production (tests unitaires, tests de non-régressions, tests de performance, tests de sécurité, déploiement de l'application sur un environnement, etc.)
+Mettre en place les outils et Monitorer la santé des services et des plateformes
+Garantir la stabilité et la haute disponibilité des plateformes
+Analyser les logs
+Fournir une expertise technique aux équipes OPS pour développer une solution robuste et scalable de chaine CI/CD
+Qui êtes-vous ?
+Entre 5 et 10 ans d'expérience dans une fonction équivalente
+Vous êtes à l'aise avec l'administration de serveurs Linux/Unix/Windows
+Vous avez une expérience en programmation et/ou en automatisation en Python, Ruby, Go ou tout autre langage.
+Vous avez déjà travaillé avec des outils de chaine d'intégration/développement continu (Jenkins, Git, AzureDevOps, AWS Code Pipeline)
+Vous connaissez les outils IaC notamment sur la gestion de configuration (Ansible, Puppet, ), la conteneurisation (Docker principalement) et son orchestration (Kubernetes, Openshift, )
+Enfin vous avez déjà implémenté des solutions dans le cloud (AWS, Azure, GCP, AliCloud)
+Les Compétences Que Vous Renforcerez
+Vous participerez à des programmes de transformation et de migration d'infrastructure et d'application vers le cloud
+Vous pourrez vous confronter et contribuer à une communauté d'experts
+Vous accompagnerez les équipes de développement sur la qualité logicielle et le déploiement sur les différents environnements.
+Vous évoluerez dans un environnement fonctionnel riche
+Rejoindre INGENIANCE, C'est 10 Avantages
+Bénéficier de référencements clients solides et reconnus (~3000 appels d'offres par an)
+Avoir le choix de SA mission afin de trouver « LE » projet répondant à ses attentes
+Être accompagné individuellement par un Practice Manager et co-construire son plan de carrière personnalisé à travers un plan de formation/certification.
+Partager et transmettre son savoir à travers différents rôles dans l'entreprise: Tribe leader, ambassadeur, formateur, consultant manager
+Intégrer une communauté de consultants passionnés et participer à des events techniques (Devoxx, Agile tour, Microsoft TechDays, salon du BigData, )
+Avoir la parole, exprimer ses idées et apporter son feedback en temps réel sur son bien être dans l'entreprise
+Bénéficier d'un accès direct à la Direction Générale en participant aux événements « En aparté »
+Pouvoir travailler en Remote lorsque le contexte le permet
+Evoluer dans un environnement convivial avec de nombreux évènements: déjeuners, afterworks, teambuilding, soirées annuelles, etc.
+Rejoindre une entreprise engagée : INGENIANCE est Membre actif du Pacte mondial des Nations Unies « Global Compact », signataire de la charte de la diversité et certifiée GOLD par l'organisme indépendant ECOVADIS, rejoignant ainsi la catégorie des 5% des entreprises françaises les plus performantes au niveau RSE.
+Comment rejoindre l'aventure INGENIANCE ?
+
+Chez Ingéniance, nous misons avant tout sur le potentiel et la personnalité. Le meilleur moyen d'en savoir plus, c'est de nous envoyer votre candidature.
+Tout commence par une rencontre avec l'un de nos Chargés de Recrutement afin de concilier vos attentes et ce que nous proposons.
+C'est avec plaisir que nous passerons donc à l'étape suivante de l'échange avec un de vos pairs. C'est un expert qui évaluera votre potentiel. Il vous donnera de la visibilité sur nos missions ainsi que le suivi et l'accompagnement des collaborateurs.
+Une fois ces deux étapes passées et concluantes, place à la rencontre avec l'un de nos dirigeants. Il ne vous restera plus qu'à nous dire « Oui »
+N'attendez plus rejoignez-nous",https://www.linkedin.com/jobs/view/3125369837/?eBP=JOB_SEARCH_ORGANIC&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=fEZW74F89g9Pqh2VOkzqRA%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer - F/H,INGENIANCE,6 days ago,Full-time · Entry level,"Karāchi, Sindh, Pakistan"
+27,27,"About ThingTrax
+
+ThingTrax is a VC-backed, UK-based start-up aspiring to be the world’s #1 Intelligent Manufacturing Optimisation Platform.
+
+ThingTrax provides an end-to-end industrial IoT solution that combines plug and play devices with simple to use web/mobile software to help manufacturers reduce downtime and increase efficiency. Our platform uses cutting-edge machine learning and big data algorithms to provide meaningful, actionable insights and Predictive Maintenance KPIs for manufacturers.
+
+This is an exciting time to join as the business continues to scale-up with clients across the world.
+
+The Role –
+
+We are seeking a dynamic and highly motivated Azure DevOps Engineer – with 3+ years of relevant experience to work with a highly motivated and capable team creating Industrial Internet of Things solution.
+
+What Experience You’ll Need
+
+We are looking for Azure DevOps engineer who has experience in working with Kubernetes. Experience of setting up a Kubernetes cluster on bare metal is a must.
+Deploying, automating, maintaining and managing Azure cloud-based production system, to ensure the availability, performance, scalability, and security of productions systems.
+Ability to use a wide variety of open source technologies.
+Experience with building CI/CD pipelines.
+In-depth understanding and knowledge of implementing, building and maintaining automated & scripted configuration, build/release processes and version control applications, specifically Ansible, Terraform, Jenkins, Puppet, Octopus Deploy, Docker, TeamCity, GitHub.
+Experience with automation/configuration tool - Ansible, Chef or Puppet.
+Object-orientated development, with experience with data types, structure and operations.",https://www.linkedin.com/jobs/view/3094620461/?eBP=JOB_SEARCH_ORGANIC&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=SAY1fn7mLPgUp4cO7tUdDg%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,ThingTrax,1 month ago,Full-time · Mid-Senior level,"Lahore, Punjab, Pakistan"
+28,28,"Our client is headquartered in Karachi with a core team on the ground, however we work as a global distributed team also across Islamabad, London, Sri Lanka and US.
+
+We are seasoned team of operators and business builders with global experience aligned around our joint vision of bringing Financial Wellness to underbanked. We are committed to build a responsible company where people feel safe and themselves and we take our impact on environment and society seriously.
+
+Responsibilities
+Ensuring continuous integration, testing and deployment is facilitated using industry DevOps best-practices and tools
+Design and develop tools for managing and applying DevOps principles, such as CI/CD automation and IaC (Infrastructure as Code)
+Manage various infrastructure applications – K8, Kafka, Redis, and others
+Deliver solutions, architectures, and automation
+Conduct research to bring innovative solutions to a complex environment to improve processes and tech stack
+Leading of cross-functional projects and initiatives
+Application and infrastructure logging and monitoring solutions
+Desired Qualifications, Capabilities, And Experience
+3-5 years of experience working with large scale virtualized environments
+2-3 years of experience in implementing the full DevOps lifecycle (CI, CD, Monitoring, Operations)
+Strong analytical and problem-solving skills
+Experience with a variety of infrastructure technologies, including compute, storage, network, and security
+Experience with scripting languages (e.g., PowerShell, Python, Bash)
+Experience with Docker, Kubernetes and Managed Container Services
+Knowledge of automation and configuration management technologies (e.g., Ansible, Terraform, Puppet, Chef)
+Experience working with CI/CD and automated build tools such as Jenkins, Git, Harbor, and Helm
+Experience and understanding of working in Cloud environments (AWS preferred, Azure and Google Cloud acceptable)
+Ability to migrate workloads to the cloud and optimize them for performance and cost
+Good understanding of security best practices in the cloud
+Excellent troubleshooting and debugging skills
+Seasoned verbal and written communication skills.
+Benefits
+Option of hybrid working model between office and remote (where possible)
+Competitive salary base
+Technology Allowance
+Employee stock options scheme
+Hands-on operating experience of building pioneering digital fintech businesses with a strong social vision for Pakistan and emerging markets together with a global experienced team of operators, and entrepreneurs
+Health insurance
+Flexible working hours
+A supportive and inclusive culture designed to help you find your purpose & grow professionally and as a person",https://www.linkedin.com/jobs/view/3111973036/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=ClHtmkpWKqfmb9ThWQ3ckg%3D%3D&trk=flagship3_search_srp_jobs,Senior Devops Engineer (Karachi or Islamabad),Kinetik,1 week ago,Full-time · Associate,"Karāchi, Sindh, Pakistan"
+29,29,"Posted by
+Usman Saleem Akhter
+Senior Technical Recruiter | Searching for Innovative Minds | Career Match-Maker | Talent Advisor |
+Send InMail
+The Role: Cloud Engineer III will be working on developing and maintaining the corporate messaging infrastructure ensuring message delivery, security, retention, and recoverability of the topics and messages. The role will have opportunities to work on various platforms managed by the team including Kafka, Apigee, Kong, Axway and Sonic MQ deployed on Cloud as well as on premise datacenters. The role will also work on on-call support, troubleshooting issues reported by client teams and provide resolutions.
+
+Responsibilities
+Work on large scale multi-nodes Kafka and API Management clusters residing on AWS and on-prem Datacenters.
+Perform high-level, day-to-day operational maintenance, support, and upgrades for the platform infrasture.
+Monitor key performance metrics, measuring the utilization, and overall health of the clusters.
+Research and recommend innovative, and where possible, automate key administration tasks.
+Ability to closely collaborate with application teams on code releases and troubleshooting issues.
+Onboarding APIs,Create topics, setup redundancy cluster, deploy monitoring tools, setup alerts.
+Perform high-level, day-to-day operational maintenance, support, and upgrades for api and messaging platform.
+Work on developing and maintaining API Gateway platforms such as Apigee, Kong and Axway.
+Mandatory Skills
+Hands-on experience with messaging tools specially Kafka.
+Experience in managing Infrastructure hosted on AWS and on-prem.
+Experience on Linux, scripting and administration tasks.
+Experience working in AWS.
+Experience on API gateways management and APIs onboardings.
+Experience in open source or Confluent Kafka, zookeepers, Kafka connect and schema registry.
+Experience in High availability cluster setup, maintenance and ongoing 24/7 support
+Establish best practice standards for configuring Kafka brokers, topics and consumer groups.
+Hands on experience in standing up and administrating Kafka platform from scratch which includes creating a backup & mirroring of Kafka Cluster brokers, broker sizing, topic sizing, h/w sizing, performance monitoring, broker security, topic security, and access management (ACL)
+Ability to concentrate on a wide range of loosely defined complex situations, which require creativity and originality, where guidance and counsel may be unavailable.
+Demonstrate a product mindset with an ability to set forward thinking and direction.
+Good Knowledge on API Gateways such as Apigee/Kong/Axway and authorization frame works.
+Optional Skills
+Experience in building Kafka pipelines using Terraform, Ansible, and Cloud formation templates
+Experience in setting up Prometheus/Grafana or ELK monitoring tools is a plus.
+Experience as Linux (RHEL) /Unix administrator is huge plus.
+Experience in Kubernetes and DevOps technologies is a plus.
+Flexible Working (optional)
+
+We pride ourselves on our agility and diversity, and we welcome requests to work flexibly. For most roles, flexible hours and/or an element of remote working are usually possible. Please talk to us at interview about the type of arrangement that is best for you. We will always try to be adaptable wherever we can.
+
+Return to Work
+
+Have you taken time out for caring responsibilities and are now looking to return to work? As part of our Return to Work initiative (link to career site page when available), we are encouraging enthusiastic and talented returners to apply, and will actively support your return to the workplace.
+
+Grade/Level (relevant for internal applicants only): 10
+
+The Location: Islamabad, Pakistan
+
+About Company Statement
+
+S&P Global delivers essential intelligence that powers decision making. We provide the world’s leading organizations with the right data, connected technologies and expertise they need to move ahead. As part of our team, you’ll help solve complex challenges that equip businesses, governments and individuals with the knowledge to adapt to a changing economic landscape.
+
+S&P Global Market Intelligence partners with customers to broaden their perspective and operate with confidence by bringing them leading data sources and technologies that embed insight in their daily work.
+
+#
+
+Equal Opportunity Employer
+
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.
+
+US Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.
+
+20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)
+
+Job ID: 271589
+
+Posted On: 2022-04-06
+
+Location: Islamabad, Pakistan",https://www.linkedin.com/jobs/view/3007758354/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=ZqqNrduOVctdsvY%2Fv18uQg%3D%3D&trk=flagship3_search_srp_jobs,Cloud engineer III,S&P Global Market Intelligence,1 week ago,Full-time,"Islamabad, Islāmābād, Pakistan"
+30,30,"About Tekrevol:
+
+Tekrevol is a leading mobile app development company dedicated to providing businesses with reliable technological solutions. We have helped countless entrepreneurs achieve their goals and drive results by creating top rated mobile apps and websites.
+
+As a global company, our aim isn’t just to create digital solutions but to help businesses achieve sustainable growth and scalability. Our teams and networks stretch across the United States, and have extended its reach to Ukraine & the Middle East.
+
+Job Description:
+
+Candidate should be familiar and have worked extensively with the following:
+Continuous integration
+Continuous deployment
+Automation
+Cloud handling
+Environment handling
+Implementing various development, testing, automation tools, and IT infrastructure
+Git and GitHub – Source code management (Version Control System)
+Jenkins – Automation server, with plugins built for developing CI/ CD pipelines
+Selenium – Automation testing
+Docker – Software Containerization Platform
+
+Requirements:
+Atleast graduate - BSCS/ Computer Engineering
+AWS Certified
+Microsoft Azure Certification
+Atleast 2 years of relevant experience
+
+Shift Timings: Late Afternoon (03:00 p.m. – 12:00 a.m.)
+
+Powered by JazzHR
+
+Ufk7n29KDI",https://www.linkedin.com/jobs/view/3127032437/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=MH2sF9NQNiO5dovb2ijhRw%3D%3D&trk=flagship3_search_srp_jobs,Devops Engineer,TekRevol,1 month ago,Full-time · Mid-Senior level,"Karachi Division, Pakistan"
+31,31,"Posted by
+Gohar Butt
+HR Specialist
+Send InMail
+Urgent hiring for Lahore
+
+Job Description
+
+Azure DevOps Engineer.
+
+You will need to have experience in:
+
+- Solid experience in Azure
+
+- Azure Sentinel and/or Azure GCP
+
+Desirable skills:
+
+- Cloud Agilisys
+
+- Cloudreach",https://www.linkedin.com/jobs/view/3124460496/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=ESupY46CrRGhpzo0J8G7PA%3D%3D&trk=flagship3_search_srp_jobs,Azure Devops engineer,Teknovate,1 week ago,Full-time,"Lahore, Punjab, Pakistan"
+32,32,"Posted by
+Hina Abouzer
+Human Resources Executive at Evamp & Saanga; Technical Recruiter| Head Hunter| HR Operations Specialist| People Management Specialist
+Send InMail
+Required Skills and Responsibilities for DevOps L3
+• Advance Expertise in All flavors of Linux
+• Kubernetes Certified
+• In Depth knowledge of DevOPS process
+• Hands-on expertise in Ansible and BASH
+• Expertise in Prometheus, Kibana, Grafana and ELK
+• In-Depth knowledge of Docker and Container, Docker Swarm, and MAAS.
+• Kubernetes monitoring stack expert
+• Kubernetes Application deployment process
+• Database cluster, preferably MariaDb and Cassandra
+• Experience with SQL queries and any relational database systems
+• Knowledge of Java, C#, PHP, Python, Ruby or similar programming
+languages.
+• Proven ability to write clear, concise documentation
+Additional Qualification and Experience
+
+• Experience with cloud technologies such as CloudStack, VMware, AWS
+etc.
+• Communication, customer service, troubleshooting, problem-solving, and
+analytical skills; extensive knowledge of product being supported.
+• Experience with cloud technologies such as CloudStack, VMware, AWS etc.
+
+Experience on Nagios, Pacemaker, Mysql Cluster, WSO2, JSNode, Tomcat, Apache, Jenkins, DRBD, Navicate, Soap UI Usage, XenServer, PHP, Hazelcast, Active MQ, Sonar Qube, Jboss-fuse will be a plus.
+Required Experience: 4- 5 Years",https://www.linkedin.com/jobs/view/3132775090/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=ArlqKIxpeAEsagFaDAu79Q%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Evamp & Saanga,1 day ago,Full-time,"Islamabad, Islāmābād, Pakistan"
+33,33,"A Bit About Us
+
+Immutable is a global technology company, powering the world of NFTs on Ethereum. We are on a mission to be the number one ecosystem for NFTs which empowers and rewards users. Founded in 2018, Immutable is one of Australia's fastest-growing startups to hit unicorn status, having raised more than AUD $300M+ and valued at AUD $3.5 billion.
+
+Currently, the Immutable Group consists of Immutable X and the Game Studio. Immutable X is the first and leading Layer 2 scaling solution for NFTs on Ethereum, with zero gas fees & is 100% carbon neutral. The Immutable Studio creates games on blockchain technologies to allow for true, digital ownership; including the world's first NFT trading-card game, Gods Unchained, and Guild of Guardians.
+
+It is our ambition to make digital worlds real; we have incredible global growth plans as we strive to become the number one ecosystem for NFTs.
+
+Come and join us as we pioneer in this space!
+
+A Bit About The Role
+
+As a Senior Site Reliability Engineer, you will be a core part of the team. You will be working closely with our Engineering Manager and have the opportunity to build out mature SRE practices and culture within the Guild of Guardians team.
+
+You Will Have The Opportunity To
+
+Build our SRE practices and culture alongside our Engineering Manager for Guild of Guardians to help drive our engineering maturity.
+Solve large scale problems in a live service environment.
+Measure our service's health, performance and scaling metrics while also utilising this data to identify areas of improvement for our teams.
+Grow alongside a hyperscaling game studio which will pose some more unique challenges in comparison to the traditional SaaS environment.
+
+We Would Love You To Have
+
+5 years experience or more in SRE or Systems engineering.
+A deep understanding of SRE best practices and processes.
+Effective communication skills to be able to clearly explain your reasoning and thought process for anything you propose.
+Proficient experience with New Relic / Datadog / Grafana or similar for monitoring and alerting services.
+Strong understanding of building CI/CD pipelines for long term effectiveness.
+Familiarity with building and managing services in AWS
+Proficiency in Node.js + TypeScript as well as Python / Bash
+
+Some Extra Skills That Would Be Awesome
+
+Experience with containerised and serverless architectures (we use both to keep our teams flexible).
+Previous experience working within game studios or on large greenfield projects.
+Prior blockchain experience.
+
+A Bit About The Team
+
+You will sit within the Studio Engineering team where you help to build out high visibility solutions to complex problems that will impact user experience and allow for incredible tools to be developed for your fellow Engineers and Game Developers to utilise. You will be a part of history as the team continues to disrupt and build out the ever-growing play-and-earn function of the gaming industry providing real digital ownership through NFTs on Ethereum giving control back to the players.
+
+We are proud of the benefits that we offer for all of our employees globally. Here is a snapshot:
+
+Attracting The Best Global Talent
+
+💸We commit to paying globally competitive salaries and contributions & we share our products' success through Employee Stock Options. We also support our US Employees with Medical and 401K Insurance
+
+💻 While we have a REMOTE first approach, we have an epic head office in the heart of Sydney and offer remote office hubs around the globe via a WeWork all-access pass
+
+📲We offer AUD $750 WFH allowance to set up your home office and AUD $900 per annum to put toward your internet and phone usage.
+
+Levelling up your growth
+
+🌱 We offer up to AUD $2,000 per annum for any classes, courses or events to support your growth and development
+
+📚 Enjoy access to free online courses via Udemy
+
+Helping you thrive
+
+💆🏽‍♀️ Enjoy $1200 per year to put toward your health and wellbeing
+
+🤗 Get 24/7 access to unlimited counselling for you and your family when you need it through our EAP Service
+
+🎁Get premium access to Aura, Calm, online fitness classes and discounts at major retailers through Perkbox
+
+Leave When You Need It The Most
+
+👨‍👧‍👦New parents receive 12 weeks of paid leave in our gender-neutral offer. The birthing parent also gets an additional six weeks of leave for rest and recovery leading up to and after birth. We also offer Miscarriage Leave and extra leave for IVF treatments
+
+🎂 Enjoy 2 additional paid annual leave days at the end of the year and a paid day off for your birthday
+
+Additional Information
+
+Immutable is committed to building and fostering an inclusive, diverse workplace. We believe in incorporating everyone's perspectives and experiences as this has been a significant driver of our success so far. For this reason, we strongly encourage candidates of all backgrounds to get in touch. Even if you don't meet all the job listing requirements, do yourself (and us) a favour by still applying! You'll likely bring something to the workplace that we haven't thought of yet, and we would love to hear from you. We are a 2022 Circle Back Initiative Employer – we commit to responding to every applicant.",https://www.linkedin.com/jobs/view/3057909651/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=hEnYOVJzDbbDE5t8O4ELAQ%3D%3D&trk=flagship3_search_srp_jobs,Senior Site Reliability Engineer (Guild of Guardians),Immutable,2 weeks ago,Full-time · Associate,APAC
+34,34,"Xgrid is a cloud services tech firm, specializing in providing expert consultancy and professional services in building secure, complex, large-scale, production grade distributed systems in cloud environments (AWS | Google Cloud Platform | Azure). The architects of the Xgrid cloud business group have 20+ years of combined experience building production-grade hyperscale systems for top silicon valley tech companies including Amazon, Salesforce, VMware, Cisco, and multiple top startups with successful exits.
+
+Our mission is to help small and big businesses grow their business by equipping them with state-of-the-art tools and technologies. This not only helps their business but also modernizes and builds a robust and cutting-edge cloud tech stack satisfying all the requirements for their use cases.
+
+We are looking for passionate DevOps and software engineers who have a deep-rooted understanding of software systems and DevOps. Experience with cloud services such as AWS S3, Lambda, EC2, API GW, DynamoDB, and IAC tools like Terraform, CDK, and CloudFormation is a plus. Our cloud business group works with top-tier silicon valley and European customers and helps them build production grade systems using cutting-edge cloud software technology.
+
+At Xgrid, you will enjoy being part of an extremely talented, motivated team interacting with both business and development counterparts to capture key marketing requirements and translate them to products and services designed for our customers. The ideal Xgrid DevOps Engineer will have experience developing and delivering complex enterprise-grade mission-critical automated software systems for our cloud customers.
+
+If you are passionate about working with the world’s top tech silicon valley companies and highly experienced software engineers and are excited about solving interesting and complex problems and challenges in a fast-paced environment, where you get to not only grow yourself but also help build a team and culture, Xgrid has a place for you and we would love to have you onboard!
+
+What you will do
+Implement end-to-end data center and cloud solutions for our customers using knowledge and experience with cloud technologies
+Design, build, deploy, and maintain software on cloud environments
+Work on cloud software systems and DevOps (AWS | GCP | Azure)
+Run the operational aspects of the business, i.e. deploy, maintain, upgrade and manage incidents across cloud deployment systems
+Work with highly experienced silicon valley engineers
+Required Skills
+Experience with public cloud services (AWS | GCP | Azure)
+Experience or familiarity with creating cloud-based services, e.g. event-based processing systems
+Experience or higher-level knowledge of Docker and Kubernetes
+Understanding of object-oriented programming, and proficiency and experience with at least one object-oriented programming language (Go, Python, C++, Java) (Python and Go preferred)
+Solid understanding of workflow and process automation, solution integration, and scripting
+Good knowledge of operating systems (Linux power user)
+Thorough knowledge of software development best practices, including coding standards, code reviews, source control management, build process, continuous integration and continuous delivery.
+Strong software debugging and problem-solving skills.
+Strong skills in information gathering and requirement documentation.
+Quick learner and ability to adapt to customer-driven fast-paced development environments.
+Team player with outstanding collaboration and teamwork attitude.
+Excellent written and verbal communication skills.
+Excellent analytical and problem-solving skills
+Preferred Skills
+Knowledge of IAC frameworks such as Terraform, CloudFormation, and package deployments such as k8s templates, Helm, bash scripting
+Experience with monitoring and metrics frameworks like Prometheus, CloudWatch, Grafana, Kibana
+Experience with Logging frameworks such as Splunk, Elasticsearch
+Experience working with Kubernetes environments, logging into containers, debugging deployment issues, familiarity with the kubectl ecosystem.
+Familiarity with SQL (Postgres, MySQL, RDS, etc.) and NoSQL (Mongo, Elasticsearch, Cassandra, DynamoDB, etc.) technologies
+Any cloud (AWS | GCP | Azure) certifications",https://www.linkedin.com/jobs/view/3124558282/?eBP=JOB_SEARCH_ORGANIC&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=MfmihoIlNzAppzEIq3swgQ%3D%3D&trk=flagship3_search_srp_jobs,Staff Software System & DevOps Engineer,Xgrid.co,1 month ago,Full-time · Mid-Senior level,"Islamabad, Islāmābād, Pakistan"
+35,35,"Our Journey
+
+We are on a mission to accelerate 100 million careers.
+
+Qureos is a community where emerging talent, mentors and business connect. We help young professionals to learn in-demand skills with industry experts through micro-cohorts and build their portfolio with paid apprenticeship projects from businesses.
+
+Our Ethos
+
+Many-To-One
+
+In sports, athletes have multiple coaches to enhance their performance. Traditional education has always been a one-to-many learning experience where you learn from a teacher. We believe that the learning experience should be many-to-one where you have access to multiple world-class mentors to learn from.
+
+Learn & Earn
+
+Education has always been exclusive of earning and you have to wait until you graduate to monetize your learning. We believe that learning should be bite-sized and applicable right away. Everyone should have the opportunity to monetize their recently learnt skills.
+
+“Imagine if you could earn while you learn, access mentors that pave the path to your dream career and build a portfolio through professional projects.”
+
+Join the founding team
+
+We are looking for founding team members to accelerate the hyper growth of a rocket ship reimagining online education and future of work.
+
+With 15,000+ apprentices across 20+ countries choosing to work with 200+ mentors from Fortune 500 companies and businesses from all over the world, Qureos is the fastest growing emerging community. Qureos is backed by some of the most renowned investors and is now looking to expand the team to accelerate the global impact.
+
+Join us on our mission to accelerate careers at scale and build the largest community of professionals globally. Visit https://www.qureos.com/ to learn more!
+
+About The Role
+
+Job Purpose
+
+Senior DevOps Engineers work with the current engineering team members to implement an innovative and state-of-the-art online platform.
+
+Job Responsibilities
+Design, develop and implement software integrations based on user feedback.
+Implement automation tools and frameworks (CI/CD pipelines).
+Collaborate with team members to improve the company’s engineering tools, systems and procedures, and data security.
+Produce technical design documentation for other teams to consume.
+Design, architect and implement infrastructure solutions.
+Manage peer code-reviews to maintain high quality standards.
+Provide technical expertise in developing solutions to complex software engineering infrastructure problems, which require frequent use of ingenuity and creativity.
+Propose new technologies, frameworks and tools to improve the product, team efficiency or process.
+Collaborates well with other engineers and other engineering groups, voluntarily shares information.
+Mentors and nurture other team members and help them grow.
+Proactive, responsible and reliable in design, suggesting new methods, implementation and delivery.
+Assists in recruiting and educating new team members.
+
+Desired Skills And Experience
+5+ years of related experience in DevOps field.
+Expert with Public Cloud Providers, specifically AWS.
+Extensive experience in using AWS resources: EKS, ECS, EC2, EBS, EFS, S3, CF, Autoscaling, Load balancers, Lambda, RDS, VPC, TGW, IAM, ECR, …
+Proficient in Ansible or Puppet as configuration management tools.
+Proficient in building IaaC environments using Terraform.
+Hands on experience in using Docker and Kubernetes in PaaS architecture.
+Intensive experience in Python and Bash scripting languages.
+Experience in automating builds in cloud environments by using CI/CD full stack like Git, Jenkins, SonarQube, Helm, Nexus, Spinnaker, Selenium, etc.
+Exposure to distributed systems like RabbitMQ, Kafka and Redis.
+Exposure to working in microservices architecture and familiar with concepts like service mesh, service discovery.
+Can maintain NodeJS applications.
+Experience monitoring network, service and application status.
+Experience with monitoring and logging tools: Prometheus, Grafana, ELK, Instana, NewRelic, etc…
+Very good communication skills.
+Ability to learn and evaluate new technology.
+Any AWS, K8s certificates are a plus.
+
+What You’ll Get
+
+Perks
+Unlimited vacations days
+Work from anywhere in the world
+Outcome based work environment
+A competitive compensation
+Stock options plan to grow as the company grows
+
+Culture
+Ability to implement your ideas - Fail fast, learn faster
+A culture that empowers you everyday to take ownership
+
+Workplace
+An opportunity to join the founding team of a hyper growth rocket-ship
+Culturally diverse team from multiple countries yet focused towards one mutual goal
+An environment that encourages quick learning and merit-based exponential growth",https://www.linkedin.com/jobs/view/3084150509/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=PZ12%2F0rb21rgd7P3eT%2Bv%2BA%3D%3D&trk=flagship3_search_srp_jobs,Senior DevOps Engineer,Qureos,1 month ago,Full-time · Associate,"Karāchi, Sindh, Pakistan"
+36,36,"We are developing a world-class cloud-based IoT platform that leverages industrial standards and the Internet of Things to enable Industry 4.0 applications. You will work as a part of the Infra team responsible for:
+
+Implementing testing and automation tools to deploy and manage the cloud-based infrastructure
+Incidence management and root cause analysis
+Review, verify and validate the software code developed in the project
+Selecting and deploying appropriate CI/CD tools
+Automating the provisioning of resources for different applications
+Monitoring the processes during the entire lifecycle for its adherence and updating or creating new processes for improvement and minimizing the wastage
+
+Requirements:
+
+4-5 years of hands-on software development experience
+2-3 years of experience in a DevOps Role
+Experience with any designing and developing cloud-based applications using managed services
+Experience with Azure is preferred
+Good knowledge and experience of Kubernetes, Terraform, ArgoCD and Ansible.
+Experience with configuring and management of databases
+Familiarity with CI/CD concepts
+Excellent programming and problem-solving skills
+Proficiency in test-driven development
+Experience with Agile development practices",https://www.linkedin.com/jobs/view/3095005547/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=YIzJCivzgFWCjLAxpsQRAQ%3D%3D&trk=flagship3_search_srp_jobs,Senior DevOps Engineer,INTECH Process Automation,1 month ago,Full-time · Mid-Senior level,"Lahore, Punjab, Pakistan"
+37,37,"Job Description
+Build, release, and manage the configuration of all production systems.
+Manage a continuous integration and deployment methodology for server-based technologies.
+Implement continuous integration/continuous delivery (CI/CD) pipelines.
+Manage current infrastructure/Cloud.
+Manage infrastructure/Cloud access and security.
+Design, develop and test automating infrastructure management.
+Design, develop and test automating node/DB fail-over.
+Define internal data, application, deployment, access, and system audit strategy.
+Defining docker containerization strategy, standards and best-practices.
+Defining Kubernetes orchestration strategy, standards and best-practices.
+Manage deliverable expectations with internal and external stakeholders.
+Designing HA/SRE processes using Load Balancers.
+Designing security policies.
+Key handling, encryption/decryption using HSM.
+Infrastructure and application security.
+Control/manage Source code (SVN/GIT).
+Restructuring of applications for high availability and redundancy using HA/SRE strategies.
+Upgrade for OS, Firmware etc.
+Applications Performance Tuning.
+Security and Infrastructure Compliance and Audits.
+We Are Looking For
+Education: BSCS/MSCS
+Experience: .6Months - 2 Years
+Skills
+Good Software Engineering, Dev OPS and systems administration skills.
+If the resource will be capable to work with Linux and Sun Solaris that would be a plus.
+Basic Systems, Databases and Network layer concepts.
+Job Location:
+Lahore",https://www.linkedin.com/jobs/view/3107754936/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=TH1K9ev3Zyzy3wZpoboW6w%3D%3D&trk=flagship3_search_srp_jobs,Associate/Software Engineer-Cloud Management (01 Position),i2c Inc.,2 weeks ago,Full-time · Entry level,"Lahore, Punjab, Pakistan"
+38,38,"<span style=""font-family:""Calibri Light"",sans-serif"">Us
+
+<span style=""font-family:""Calibri Light"",sans-serif"">The ENTERTAINER is a leading digital company whose main goal is to add value to consumers by bringing them the best incentive offers globally. We are a data-driven, 100% digital, tech company. Providing first-rate offers across renowned dining, leisure, entertainment and hotel brands worldwide, the ENTERTAINER has grown with the aim of creating unbeatable value and loyalty everywhere we go.
+
+<span style=""font-family:""Calibri Light"",sans-serif"">We believe that “experience is everything”, resulting in our passion for creating unforgettable experiences for both our customers, partners and employees.
+
+<span style=""font-family:""Calibri Light"",sans-serif"">The Team
+
+<span style=""font-family:""Calibri Light"",sans-serif"">The E-business team’s mission is to build simple, user-friendly digital experiences that delight the millions who use our products. The team’s responsibilities include product innovation, engineering, infrastructure, project delivery, data, IT & Ops. We work in an agile, fast-paced environment and align closely with teams across the business to identify, build and support the best possible solutions for our users. We’re passionate, curious, a bit intense and a lot of fun. All at the same time.
+
+DevOps Engineer will be responsible for.....
+
+Collaborating with Developers, Quality Engineers, Operations, and Management to coordinate and align automated/manual builds and deployments of product packages over a cloud-based staged development and operation infrastructure.
+Designing and implementing automated build and deployments using configuration management tools and solutions.
+Working on Release, Configuration Management, Continuous Integration, Automation, Continuous Deployment, Security, Capacity planning, Monitoring and Incident management.
+Working on tools like Jenkins, AWS, Cloud Formation, Ansible, Subversion, Docker or relevant
+Performing deployments on Live servers
+Performing DB deployments on Live DB servers
+Capacity planning of operational infrastructure and automating
+Handling code deployments in all environments.
+Monitoring metrics and developing ways to improve infrastructure development and application development.
+Designing, implementing, and managing the CI/CD environment.
+Performing Cloud enablement of new products and cloud migration of existing products.
+Performing Docker, Microservices or distributed systems
+Deployment in Elastic and Cluster Environments
+Providing technical guidance and educate team members regarding best practices in product's operational infrastructure
+<span style=""font-family:""Segoe UI"",sans-serif"">Job Specification:
+
+1-6 years of Release, Configuration Management, Continuous Integration, Automation, Continuous Deployment, Security, Capacity planning, Monitoring and Incident management.
+Good experience required in Jenkins, AWS, CloudFormation, Ansible, Subversion, Docker or relevant
+Experience on deployments on Live servers
+Experience on DB deployments on Live DB servers
+Experience of using Git, Mercurial and Linux administration is also required
+Experience of working in a Scrum team and development in python programming is preferred
+Experience with automation/configuration management using either Puppet, Chef or an equivalent
+Experience with AWS CI/CD services like, AWS code Pipeline, AWS CodeDeploy
+Experience with writing bash scripting and exposure on Linux network
+Willingness to be available off hours in case of emergencies and working in shifts
+<span style=""font-family:""Segoe UI"",sans-serif"">Qualifications and Education Requirements:
+
+<span style=""font-family:""Times New Roman"",serif""><span style=""font-family:""Calibri"",sans-serif"">Bachelor’s or Master’s in Computer Science.
+
+<span style=""font-family:""Segoe UI"",sans-serif"">Desired Skills
+
+Strong Knowledge of Linux
+Strong knowledge of deployments of Python, Php based web applications & APIs.
+Experience in Amazon Web Services
+CI/CD Pipeline and Automation Tools. Jenkins, ansible
+Apache, Gunicron, Ngnix
+MySQL, Perconna, Mongo
+GIT
+Redis, Celery, Elasticsearch
+AWS S3, Cloudfront, EC2, RDS, Aurora",https://www.linkedin.com/jobs/view/2716734854/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=g9qq0IX9iRApFMY3DQ%2BzKg%3D%3D&trk=flagship3_search_srp_jobs,Devops Engineer,The ENTERTAINER,9 months ago,Full-time · Entry level,"Lahore, Punjab, Pakistan"
+39,39,"Xgrid is a cloud services tech firm, specializing in providing expert consultancy and professional services in building secure, complex, large-scale, production-grade distributed systems in cloud environments (AWS | Google Cloud Platform | Azure). The architects of the Xgrid cloud business group have 20+ years of combined experience building production-grade hyperscale systems for top silicon valley tech companies including Amazon, Salesforce, VMware, Cisco, and multiple top startups with successful exits.
+
+Our mission is to help small and big businesses grow their business by equipping them with state-of-the-art tools and technologies. This not only helps their business but also modernizes and builds a robust and cutting-edge cloud tech stack satisfying all the requirements for their use cases.
+
+We are looking for passionate DevOps and software engineers who have a deep-rooted understanding of software systems and DevOps. Experience with cloud services such as AWS S3, Lambda, EC2, API GW, DynamoDB, and IAC tools like Terraform, CDK, and CloudFormation is a plus. Our cloud business group works with top-tier silicon valley and European customers and helps them build production-grade systems using cutting-edge cloud software technology.
+
+At Xgrid, you will enjoy being part of an extremely talented, motivated team interacting with both business and development counterparts to capture key marketing requirements and translate them to products and services designed for our customers. The ideal Xgrid DevOps Engineer will have experience developing and delivering complex enterprise-grade mission-critical automated software systems for our cloud customers.
+
+If you are passionate about working with the world’s top tech silicon valley companies and highly experienced software engineers and are excited about solving interesting and complex problems and challenges in a fast-paced environment, where you get to not only grow yourself but also help build a team and culture, Xgrid has a place for you and we would love to have you onboard!
+
+What you will do
+Implement end-to-end data center and cloud solutions for our customers using knowledge and experience with cloud technologies
+Design, build, deploy, and maintain the software in cloud environments
+Work on cloud software systems and DevOps (AWS | GCP | Azure)
+Run the operational aspects of the business, i.e. deploy, maintain, upgrade and manage incidents across cloud deployment systems
+Work with highly experienced silicon valley engineers.
+Required Skills
+Experience with public cloud services (AWS | GCP | Azure)
+3 - 6 Years of experience in any of the above cloud environment
+Experience or familiarity with creating cloud-based services, e.g. event-based processing systems
+Experience or higher-level knowledge of Docker and Kubernetes
+Understanding of object-oriented programming, and proficiency and experience with at least one object-oriented programming language (Go, Python, C++, Java) (Python and Go preferred)
+Solid understanding of workflow and process automation, solution integration, and scripting
+Good knowledge of operating systems (Linux power user)
+Thorough knowledge of software development best practices, including coding standards, code reviews, source control management, build process, continuous integration and continuous delivery.
+Strong software debugging and problem-solving skills.
+Strong skills in information gathering and requirement documentation.
+Quick learner and ability to adapt to customer-driven fast-paced development environments.
+Team player with outstanding collaboration and teamwork attitude.
+Excellent written and verbal communication skills.
+Excellent analytical and problem-solving skills.
+Preferred Skills
+Knowledge of IAC frameworks such as Terraform, CloudFormation, and package deployments such as k8s templates, Helm, bash scripting
+Experience with monitoring and metrics frameworks like Prometheus, CloudWatch, Grafana, Kibana
+Experience with Logging frameworks such as Splunk, Elasticsearch
+Experience working with Kubernetes environments, logging into containers, debugging deployment issues, and familiarity with the kubectl ecosystem.
+Familiarity with SQL (Postgres, MySQL, RDS, etc.) and NoSQL (Mongo, Elasticsearch, Cassandra, DynamoDB, etc.) technologies
+Any cloud (AWS | GCP | Azure) certifications",https://www.linkedin.com/jobs/view/3123754972/?eBP=JOB_SEARCH_ORGANIC&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=pTK32DseL5R2nOd3Bf7Ktg%3D%3D&trk=flagship3_search_srp_jobs,Senior Software Systems and DevOps Engineer,Xgrid.co,1 month ago,Full-time · Mid-Senior level,"Islamabad, Islāmābād, Pakistan"
+40,40,"Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Virtasant. Have you got what it takes?
+
+Are you a seasoned site reliability engineer bored with your current job? Maintaining a single product for years, working with the same old tech stack, and tracking random bugs can take its toll - especially if all you have to show is 99.99% uptime on an unknown platform! How would you like to become a central part of the cloud revolution?
+
+At Virtasant, we believe the public cloud is the future of computing and can help organizations unlock tremendous possibilities. Using a unique outcome-based business model, we optimize, manage, build, and migrate companies to the cloud - and site reliability engineers with virtualization skills are essential for making this happen.
+
+In this role, you will move product components to the cloud infrastructure and constantly enhance the platform. Our tech stack evolves weekly with each new addition to our portfolio of over 100 products, so the opportunities for learning new technologies are unparalleled.
+
+If you want to be part of a team of experts building the next generation of cloud solutions, apply today!
+
+What You Will Be Doing
+Lift & Shift: Moving components for newly acquired products from non-standard to the standard premise on the cloud.
+Upkeep: Monitoring and maintaining cloud services, dockerized containers, and databases.
+What You Won’t Be Doing
+Being reactive. You will actively maintain the infrastructure in good condition and not wait for incidents or tickets to react.
+Band-aid solutions. Fixes must address the root cause and prevent the outage from happening again.
+Site Reliability Engineer Key Responsibilities
+
+Maintain a centralized, standard infrastructure that provides adequate availability, reduced operating costs, and simplified delivery of SaaS products.
+
+Basic Requirements
+4+ years of experience with Linux and AWS Services
+Experience with infrastructure configuration management, deployment, and versioning tools
+Experience configuring infrastructure for packing applications into containers and deploying them (Docker/Kubernetes)
+About Virtasant
+
+Nice-to-have Requirements
+
+Virtasant is a global cloud services provider with industry-leading technology, capabilities, and people. We've been working in the cloud, testing the limits of its capabilities, since the start. We transform, build, and optimize customers' digital experience in the cloud every day, helping companies make the most of the cloud's native capabilities. To achieve this, we've built one of the world's largest fully remote organizations.
+
+To maintain the high quality of services that Virtasant is offering, we give all our employees a chance of attaining official cloud certification which helps them develop and grow themselves faster.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+Important! If you do not receive an email from us:
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/reset-password if you already applied using LinkedIn EasyApply.
+Crossover Job Code: LJ-4755-PK-Islamaba-SiteReliabilit",https://www.linkedin.com/jobs/view/3125339188/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=xOS0J%2BYmgZ9T%2Bua1iEx%2Bdw%3D%3D&trk=flagship3_search_srp_jobs,"Site Reliability Engineer, Virtasant (Remote) - $100,000/year USD",Crossover for Work,1 day ago,Full-time · Mid-Senior level,"Islamabad, Islāmābād, Pakistan"
+41,41,"Posted by
+Ameera Khader
+Talent Acquisition Specialist | Technical Recruiter | Talent Division | Head Hunter | HR Executive at Arpatech
+Primary Job Functions:
+
+• Managing Systems Administration, DevOps and Network Administration.
+• Cloud Server Management AWS, Azure, Digital Ocean.
+• Managing Git, Bitbucket and build automation tools.
+• Scripting languages: bash and powershell
+• Managing CM tools e.g. Puppet, Chef, CF Engine or Ansible
+• Managing Application Servers, Web Servers, and DB Servers e.g. Tomcat, Apache, Nginx, MySQL.
+• Performing / monitoring builds and deployments.
+• In- depth experience on both Windows and Linux based system
+• Managing team related to performance maximization.
+
+
+
+Experience: 4-6 years of experience
+Education:
+Bachelors in Computer Science.
+
+Skills:
+● Strong background in Linux/Unix and MS Windows Administration.
+● Experience in Virtualization tech eg. VMWare ESXi, Hyper-V or XenServer
+● Experience with Zabbix or similar
+● Experience with Linux servers, System initialization, package management, user & group administration.
+● Strong understanding of System security, Server update & patching.
+● Installation, configuration and management of open source web applications such WordPress, Magento, Drupal, Joomla, Prestashop, Moodle, SugarCRM and different PHP framework.
+● Apache, Nginx, Nginx as reverse proxy, Tomcat & JBoss., Mysql and Applications Optimization, LAMP / LEMP Administration, Firewall configurations and Backups & Restoration
+● Team Management skills.
+● Training of staff.
+● Excellent debugging skills, self-motivated, analytical and problem-solving mindset.
+● Excellent oral and written communication skills.",https://www.linkedin.com/jobs/view/3136378987/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=ITFbokLUFA%2FDSncQ9vFWzA%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Arpatech (Pvt) Ltd,6 hours ago,Full-time,"Karāchi, Sindh, Pakistan"
+42,42,"<span style=""font-family:""Calibri Light"",sans-serif"">Us
+
+<span style=""font-family:""Calibri Light"",sans-serif"">The ENTERTAINER is a leading digital company whose main goal is to add value to consumers by bringing them the best incentive offers globally. We are a data-driven, 100% digital, tech company. Providing first-rate offers across renowned dining, leisure, entertainment and hotel brands worldwide, the ENTERTAINER has grown with the aim of creating unbeatable value and loyalty everywhere we go.
+
+<span style=""font-family:""Calibri Light"",sans-serif"">We believe that “experience is everything”, resulting in our passion for creating unforgettable experiences for both our customers, partners and employees.
+
+<span style=""font-family:""Calibri Light"",sans-serif"">The Team
+
+<span style=""font-family:""Calibri Light"",sans-serif"">The E-business team’s mission is to build simple, user-friendly digital experiences that delight the millions who use our products. The team’s responsibilities include product innovation, engineering, infrastructure, project delivery, data, IT & Ops. We work in an agile, fast-paced environment and align closely with teams across the business to identify, build and support the best possible solutions for our users. We’re passionate, curious, a bit intense and a lot of fun. All at the same time.
+
+DevOps Engineer will be responsible for.....
+
+Collaborating with Developers, Quality Engineers, Operations, and Management to coordinate and align automated/manual builds and deployments of product packages over a cloud-based staged development and operation infrastructure.
+Designing and implementing automated build and deployments using configuration management tools and solutions.
+Working on Release, Configuration Management, Continuous Integration, Automation, Continuous Deployment, Security, Capacity planning, Monitoring and Incident management.
+Working on tools like Jenkins, AWS, Cloud Formation, Ansible, Subversion, Docker or relevant
+Performing deployments on Live servers
+Performing DB deployments on Live DB servers
+Capacity planning of operational infrastructure and automating
+Handling code deployments in all environments.
+Monitoring metrics and developing ways to improve infrastructure development and application development.
+Designing, implementing, and managing the CI/CD environment.
+Performing Cloud enablement of new products and cloud migration of existing products.
+Performing Docker, Microservices or distributed systems
+Deployment in Elastic and Cluster Environments
+Providing technical guidance and educate team members regarding best practices in product's operational infrastructure
+<span style=""font-family:""Segoe UI"",sans-serif"">Job Specification:
+
+1-6 years of Release, Configuration Management, Continuous Integration, Automation, Continuous Deployment, Security, Capacity planning, Monitoring and Incident management.
+Good experience required in Jenkins, AWS, CloudFormation, Ansible, Subversion, Docker or relevant
+Experience on deployments on Live servers
+Experience on DB deployments on Live DB servers
+Experience of using Git, Mercurial and Linux administration is also required
+Experience of working in a Scrum team and development in python programming is preferred
+Experience with automation/configuration management using either Puppet, Chef or an equivalent
+Experience with AWS CI/CD services like, AWS code Pipeline, AWS CodeDeploy
+Experience with writing bash scripting and exposure on Linux network
+Willingness to be available off hours in case of emergencies and working in shifts
+<span style=""font-family:""Segoe UI"",sans-serif"">Qualifications and Education Requirements:
+
+<span style=""font-family:""Times New Roman"",serif""><span style=""font-family:""Calibri"",sans-serif"">Bachelor’s or Master’s in Computer Science.
+
+<span style=""font-family:""Segoe UI"",sans-serif"">Desired Skills
+
+Strong Knowledge of Linux
+Strong knowledge of deployments of Python, Php based web applications & APIs.
+Experience in Amazon Web Services
+CI/CD Pipeline and Automation Tools. Jenkins, ansible
+Apache, Gunicron, Ngnix
+MySQL, Perconna, Mongo
+GIT
+Redis, Celery, Elasticsearch
+AWS S3, Cloudfront, EC2, RDS, Aurora",https://www.linkedin.com/jobs/view/2918584604/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=0aoHMYIcaksdhbHn0pTmYA%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,The ENTERTAINER,4 months ago,Full-time · Entry level,"Lahore, Punjab, Pakistan"
+43,43,"Xgrid is a cloud services tech firm, specializing in providing expert consultancy and professional services in building secure, complex, large-scale, production grade distributed systems on cloud environments (AWS | Google Cloud Platform | Azure). The architects of the Xgrid cloud business group have 20+ years of combined experience building production-grade hyperscale systems for top silicon valley tech companies including Amazon, Salesforce, VMware, Cisco, and multiple top startups with successful exits.
+
+Our mission is to help small and big businesses grow their business by equipping them with state-of-the-art tools and technologies. This not only helps their business but also modernizes and builds a robust and cutting-edge cloud tech stack satisfying all the requirements for their use cases.
+
+We are looking for passionate DevOps and software engineers who have a deep-rooted understanding of software systems and DevOps. Experience with cloud services such as AWS S3, Lambda, EC2, API GW, DynamoDB, and IAC tools like Terraform, CDK, and CloudFormation is a plus. Our cloud business group works with top-tier silicon valley and European customers and helps them build production-grade systems using cutting-edge cloud software technology.
+
+At Xgrid, you will enjoy being part of an extremely talented, motivated team interacting with both business and development counterparts to capture key marketing requirements and translate them to products and services designed for our customers. The ideal Xgrid DevOps Engineer will have experience developing and delivering complex enterprise-grade mission-critical automated software systems for our cloud customers.
+
+If you are passionate about working with the world’s top tech silicon valley companies and highly experienced software engineers and are excited about solving interesting and complex problems and challenges in a fast-paced environment, where you get to not only grow yourself but also help build a team and culture, Xgrid has a place for you and we would love to have you onboard!
+
+What you will do
+Implement end-to-end cloud solutions for our customers using knowledge and experience with cloud technologies
+Build, deploy, and maintain software in cloud environments
+Work on cloud software systems and DevOps (AWS | GCP | Azure)
+Run the operational aspects of the business, i.e. deploy, maintain, upgrade and manage incidents across cloud deployment systems
+Work with highly experienced silicon valley engineers
+Required Skills
+Beginner level experience with public cloud services (AWS | GCP | Azure)
+Basic experience or familiarity with creating cloud-based services, e.g. event-based processing systems
+Experience or higher-level knowledge of Docker and Kubernetes
+Understanding of object-oriented programming, and experience with at least one object-oriented programming language (Go, Python, C++, Java) (Python and Go preferred)
+Basic understanding of workflow and process automation, solution integration, and scripting
+Good knowledge of operating systems
+skills in information gathering and requirement documentation.
+Quick learner and ability to adapt to customer-driven fast-paced development environments. .
+Team player with outstanding collaboration and teamwork attitude.
+Excellent written and verbal communication skills.
+Excellent analytical and problem-solving skills.",https://www.linkedin.com/jobs/view/3012021290/?eBP=JOB_SEARCH_ORGANIC&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=dRhrn8%2FPiwh5WD70zsj3Hw%3D%3D&trk=flagship3_search_srp_jobs,Software Systems and DevOps engineer,Xgrid.co,3 months ago,Full-time · Associate,"Islamabad, Islāmābād, Pakistan"
+44,44,"Who We Are
+
+Motive builds technology to improve the safety, productivity, and profitability of businesses that power the physical economy. The Motive Automated Operations Platform combines IoT hardware with AI-powered applications to automate vehicle and equipment tracking, driver safety, compliance, maintenance, spend management, and more. Motive serves more than 120,000 businesses, across a wide range of industries including trucking and logistics, construction, oil and gas, food and beverage, field service, agriculture, passenger transit, and delivery.
+
+Motive is proud to be a Forbes Cloud 100 company and a 2020 Career-Launching Company by Wealthfront.
+
+About The Role
+
+As a Site Reliability Engineer on the Platform team, your role will be crucial in helping us design, scale, and manage our growing AWS-backed infrastructure. Your expertise will contribute to scaling our architecture and building a highly available system with an enthusiastic team. We are looking for candidates who have production experience with AWS-based platforms, expertise in automating distributed systems, scaling a fast-growing platform, maintaining high availability, and a forward-thinking mindset ready to take on tomorrow's challenges.
+
+What You'll Do
+Automate the provisioning, scaling, and management of our infrastructure using Configuration As Code and Configuration Management
+Work with other engineering and product teams to design and build the infrastructure required to deliver new features to customers
+Identify and remove bottlenecks from systems in production
+Ensure 99.9% customer-facing uptime
+Continuously improve the monitoring and alerting capabilities of our platform, enabling us to be proactive instead of reactive
+Create deployment pipelines; take code from git to production
+What We're Looking For
+4+ years of professional SRE/DevOps experience, and a demonstrated ability working on high volume production systems
+Working knowledge of AWS services and technologies (Redshift, DynamoDB, Kinesis, RDS, ELB, AutoScaling, Lambda, etc…)
+Experience with infrastructure as code and configuration management (Terraform, Nix, Ansible, CloudFormation, Chef, etc...), and with build managers such as Bazel, Pants, Buck
+Knowledge of Python, Ruby, or Go, and an understanding of relational and NoSQL databases (PostgreSQL a plus)
+Experience with container orchestration framework such as Kubernetes, Docker Swarm
+Creating a diverse and inclusive workplace is one of Motive's core values. We are an equal opportunity employer and welcome people of different backgrounds, experiences, abilities and perspectives.
+
+Please do not let an arrest or conviction record prevent you from applying for employment at Motive. Motive considers qualified applicants with arrest and conviction records.
+
+Please review our Candidate Privacy Notice here.",https://www.linkedin.com/jobs/view/3113101731/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=SNZwvWpQF5NCOlD9NzJvdA%3D%3D&trk=flagship3_search_srp_jobs,Cloud Infrastructure Engineer,Motive,2 weeks ago,Full-time · Associate,Pakistan
+45,45,"Posted by
+Usman Saleem Akhter
+Senior Technical Recruiter | Searching for Innovative Minds | Career Match-Maker | Talent Advisor |
+Send InMail
+Job Description
+
+The Role: Senior Cloud Engineer
+
+The Grade : 10
+
+The Location: Islamabad, Pakistan
+
+About the Role: S&P Global Data, Technology & Innovation (DTI) team is a creative team of experts collaborating across divisions and driving continuous improvements in platform innovation and usability.
+
+We are looking for a highly motivated DevOps Engineer to join our Platforms & Operations Engineering team supporting Container Platform as part of our DevOps transition. The Container platform is built using latest technologies such as Docker Enterprise and Kubernetes and is hosted in our on-premises data centers as well as in the cloud. You would help accelerate our growth as part of SOA team within Platforms & Operations Engineering organization. This is an excellent opportunity to join S&P Global as we transform our infrastructure and move into the cloud, while also developing your skills and furthering your career as we plan to power the markets of the future.
+
+The Ideal Candidate Will
+Enjoy working with financial services technologists and partners. You will have a passion for educating, training, designing, and building cloud computing systems for a diverse and challenging set of customers and partners.
+Have a strong understanding of large-scale cloud computing solutions including setting up and configuring Container platform.
+Have past experience working with Azure DevOps, Jenkins, Docker and Kubernetes or related cloud technologies.
+Have excellent communication and troubleshooting skills.
+Have ability to present solution of complex problems to technical and non-technical audience.
+Have passion to learn new technologies and grow with team.
+Tasks And Responsibilities Include
+Work together with various domestic and overseas teams across the organization to ensure that DevOps platform is reliable, operational, performant, and meets business requirements as well as committed SLA. DevOps platform consists of Azure DevOps & Jenkins based CI/CD Pipelines and Docker/Kubernetes based Container Platform.
+Setup, configure and monitor CI/CD Pipelines and Container platform; conduct routine maintenance work for smooth operation with guaranteed uptime.
+Onboard applications onto the DevOps platform as demands come.
+Assist various DEV and QA teams during their development and testing following the guidelines provided.
+Work closely with supervisor/manager in day-to-day operation activities.
+Conduct and/or assist in conducting regular capacity analysis and POCs.
+Develop and maintain the platform automation tools, dashboard and utilities (Java, .NET C#, shell scripting, python etc.).
+Provide support for Production, DR and lower environments making sure platform is stable and highly available.
+Required Qualification, Skills And Experience
+BS in Computer Science, Engineering or in equivalent discipline is required.
+3-5 years of relevant work experience managing platform and/or infrastructure.
+2-3 years of experience in Devops and container platform such as Docker Enterprise or Kubernetes is required.
+Proficient with modern DevOps tools including Jenkins and Azure DevOps (VSTS) based CI/CD pipelines.
+Hands-on knowledge or experience of AWS is a plus.
+Understands well PaaS concepts and SOA including Service abstraction, System Integration, Reusable Designs, etc.
+Some knowledge in managing and administrating Container platform and Application Servers / Appliance such as WebLogic, WebSphere, Tomcat, Nginx etc.
+Strong experience on application deployment and monitoring. Experience with Prometheus or similar tools is preferable.
+Good hands-on experience with Linux/Unix and Windows OS.
+#
+
+Equal Opportunity Employer
+
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.
+
+US Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.
+
+IFTECH202.1 - Middle Professional Tier I (EEO Job Group)
+
+Job ID: 270610
+
+Posted On: 2022-05-28
+
+Location: Islamabad, Pakistan",https://www.linkedin.com/jobs/view/3063607701/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=xBZGpRYEvBBZ7TsItm1j7A%3D%3D&trk=flagship3_search_srp_jobs,Senior Cloud Engineer,S&P Global Market Intelligence,2 weeks ago,Full-time,"Islamabad, Islāmābād, Pakistan"
+46,46,"Si vous aussi, vous êtes convaincus que l'assimilation d'une vraie culture Cloud passe en premier lieu par le développeur.
+
+Si le provisionning d'environnements on-demand, la philosophie fail fast & fail often et le CI/CD n'ont plus de secrets pour vous.
+
+Alors vous devriez rejoindre INGENIANCE.
+
+INGENIANCE est une Entreprise de Service Numérique. Depuis 2005, elle accompagne les entreprises à la fois dans leur transformation digitale et l'expertise métier.
+
+Nous apportons notre valeur ajoutée en associant innovation technologique, transformation digitale, expertise métier (Banque, Finance et Assurance) & méthodes agiles
+
+Quelless seront vos missions ?
+
+Vos missions s'inscrivent au sein d'une des features teams d'une tribu en charge des projets autour d'une plateforme B2B dédiée à la maintenance prédictive et l'aide à la prise de décision.
+
+Vous jouerez un rôle d'interface entre la Data Science et l'application Web Front-end et l'environnement de production Back-end. Vous serez chargé de définir et d'implémenter les nouvelles fonctionnalités de la plateforme.
+
+La plateforme est entièrement hébergée sur le Cloud. Dans ce cadre, vous contribuerez:
+Aux choix technologique (Architecture, Techno, services Cloud, frameworks)
+Au développement Back (API Flask, Data pipeline, BDD Sql et no-Sql, modélisation)
+A l'industrialisation des modèles de data science (en coopération avec les data scientists)
+A la mise en place du monitoring de la plateforme
+A la coordination avec les équipes de développement (R&D, Front, Data, back, Ops)
+A la mise en place d'une stratégie de tests pour la plateforme
+A la mise en production de plusieurs livrables
+A la formation et au partage de connaissance
+A la production de documentation technique
+Qui êtes-vous ?
+Entre 5 et 10 ans d'expérience dans une fonction équivalente
+Vous maîtrisez les langages Java et/ou Python (Flask, Pandas, Numpy)
+Vous êtes à l'aise avec les services AWS / Azure, le CI/CD et les outils de conteneurisation comme Docker.
+Vous êtes convaincu par les méthodologie Agile, connaissez le déroulement d'un sprint et ses cérémonies.
+Les Compétences Que Vous Renforcerez
+Vous pourrez vous confronter et contribuer à une communauté d'experts
+Vous renforcerez vos compétences sur le Cloud
+Vous aurez l'opportunité de développer/renforcer des compétences Web front-end (ReactJS)
+Vous évoluerez dans un environnement technique et fonctionnel riche
+Rejoindre INGENIANCE, C'est 10 Avantages
+Bénéficier de référencements clients solides et reconnus (~3000 appels d'offres par an)
+Avoir le choix de SA mission afin de trouver « LE » projet répondant à ses attentes
+Être accompagné individuellement par un Practice Manager et co-construire son plan de carrière personnalisé à travers un plan de formation/certification.
+Partager et transmettre son savoir à travers différents rôles dans l'entreprise: Tribe leader, ambassadeur, formateur, consultant manager
+Intégrer une communauté de consultants passionnés et participer à des events techniques (Devoxx, Agile tour, Microsoft TechDays, salon du BigData, )
+Avoir la parole, exprimer ses idées et apporter son feedback en temps réel sur son bien être dans l'entreprise
+Bénéficier d'un accès direct à la Direction Générale en participant aux événements « En aparté »
+Pouvoir travailler en Remote lorsque le contexte le permet
+Evoluer dans un environnement convivial avec de nombreux évènements: déjeuners, afterworks, teambuilding, soirées annuelles, etc.
+Rejoindre une entreprise engagée : INGENIANCE est Membre actif du Pacte mondial des Nations Unies « Global Compact », signataire de la charte de la diversité et certifiée GOLD par l'organisme indépendant ECOVADIS, rejoignant ainsi la catégorie des 5% des entreprises françaises les plus performantes au niveau RSE.
+Comment rejoindre l'aventure INGENIANCE ?
+
+Chez Ingéniance, nous misons avant tout sur le potentiel et la personnalité. Le meilleur moyen d'en savoir plus, c'est de nous envoyer votre candidature.
+Tout commence par une rencontre avec l'un de nos Chargés de Recrutement afin de concilier vos attentes et ce que nous proposons.
+C'est avec plaisir que nous passerons donc à l'étape suivante de l'échange avec un de vos pairs. C'est un expert qui évaluera votre potentiel. Il vous donnera de la visibilité sur nos missions ainsi que le suivi et l'accompagnement des collaborateurs.
+Une fois ces deux étapes passées et concluantes, place à la rencontre avec l'un de nos dirigeants. Il ne vous restera plus qu'à nous dire « Oui »
+N'attendez plus rejoignez-nous",https://www.linkedin.com/jobs/view/3125369827/?eBP=JOB_SEARCH_ORGANIC&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=F5zF%2BsBOi%2B3q8sLPljC4rw%3D%3D&trk=flagship3_search_srp_jobs,Cloud Engineer - F/H,INGENIANCE,6 days ago,Full-time · Entry level,"Karāchi, Sindh, Pakistan"
+47,47,"Posted by
+Adeela Rashid-SPHRi
+Head HR at Ciklum Pakistan
+Send InMail
+On behalf of Ciklum Digital, Ciklum is looking for an Azure Data Engineer to join the UA team on a full-time basis.
+You will join a highly motivated team and will be working on a modern solution for our existing client. We are looking for technology experts who want to make an impact on new business by applying best practices and taking ownership
+Technology Stack: MySQL, Azure SQL, Azure Data Factory and CosmosDB.
+
+Responsibilities:
+Responsible for the building, deployment, and maintenance of mission critical analytics solutions that process data quickly at big data scales
+Contributes design, code, configurations, and documentation for components that manage data ingestion, real time streaming, batch processing, data extraction, transformation, and loading across multiple data storages
+Owns one or more key components of the infrastructure and works to continually improve it, identifying gaps and improving the platform’s quality, robustness, maintainability, and speed
+Cross-trains other team members on technologies being developed, while also continuously learning new technologies from other team members
+Interacts with engineering teams to create professional data oriented solutions and ensures that solutions meet customer requirements in terms of functionality, performance, availability, scalability, and reliability
+Design and implement new features according to business needs using Azure SQL Database, Azure Cosmos DB, Azure Cache for Redis, and Azure Blob Storage
+Ensure high quality of data solution by performing self-testing QA practice
+Work in close cooperation with dev-ops on deployment plans, preparation of migration and rollback scripts, HADR as needed to ensure total end to end responsibility of data solution
+Be a strong advocate for great engineering practices, being pragmatic when balancing best practice against delivery, all the time managing technical debt effectively
+Collaborate with the team to set up the BI and ETL process
+Contribute in CoE activities and community building, participate in conferences, provide excellence in exercise and best practices
+
+Requirements:
+5+ years of professional experience as a Data Engineer
+3+ years of experience coding in SQL and any of the general programming languages, preferably from the .NET family, with solid CS fundamentals including data structure and algorithm design
+2+ years contributing to production deployments of large backend data processing and analysis systems as a data lead
+2+ years of hands-on implementation experience working with a combination of the SQL data warehouses
+1+ years of experience in Azure data platforms. Understanding of cloud infrastructure design and implementation
+Strong knowledge of MySQL, MS SQL Server and its Azure counterparts, and principles of MPP databases
+Strong understanding of NoSQL databases and principles of effective work with them
+Knowledge of professional software engineering best practices for the full software
+Knowledge of Data Warehousing, design, implementation and optimization
+Knowledge of Data Quality testing, automation and results visualization
+Knowledge of BI reports and dashboards design and implementation, preferably in Microsoft stack
+Knowledge of development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+Experience participating in an Agile software development team, e.g. SCRUM
+Ability to handle multiple competing priorities in a fast-paced environment
+Undergraduate degree in Computer Science or Engineering from a top CS program required. Masters preferred
+
+Desirable:
+Strong knowledge of Azure Cosmos DB with any querying interface (SQL API is preferable)
+Working experience with BI and ETL
+Experience in data science and machine learning
+Experience in backend development and deployment
+Experience in CI/CD configuration and Azure Resource Manager templates
+Experience with supporting data scientists and complex statistical use cases highly desirable
+Demonstrated ability to learn modern technologies quickly and independently
+Experience designing, documenting, and defending designs for key components in large, distributed computing systems
+Good knowledge of data analysis in enterprises
+
+Personal skills:
+Curious mind and willingness to work with client in consultative manner to find areas to improve
+Upper-Intermediate or Advanced English
+Excellent interpersonal and communication skills
+Good analytical skills
+Good team player, motivated to develop and solve complex tasks
+Self-motivated, self-disciplined and result-oriented
+Strong attention to details and accuracy
+
+What's in it for you?
+A Centre of Excellence is ultimately a community that allows you to improve yourself and have fun. Our centers of excellence (CoE) bring together all Ciklumers from across the organization to share best practices, support, advice, industry knowledge and to create a strong community
+Close cooperation with client
+A constant flow of new projects
+Dynamic and challenging tasks
+Ability to influence project technologies
+Projects from scratch
+Team of professionals: learn from colleagues and gain recognition of your skills
+European management style
+Continuous self-improvement
+
+About the Client:
+Client is a proud subsidiary of Vitol, the world’s biggest independent oil trader with 40 offices worldwide. For the last half century, Vitol has served the world’s energy markets efficiently and responsibly, now trading over seven million barrels of crude oil a day, and delivering energy products on a global scale.
+Leveraging this credibility, considerable expertise and infrastructure in the world of oil, VavaCars is making a move into the used car marketplace.
+Merging the tech and auto worlds Client is building the first of it's kind start-up offering in the world.
+To deliver this vision, we have already brought on board some of the best in their field from around the world and now we are on the hunt to find the brightest and the best to scale and grow our teams.
+This is a unique opportunity for an Azure Data Engineer to play an important role in building a new C2B2B online used car marketplace (VavaCars) that leverages our extensive network of petrol stations and worldwide respected brand – Vitol. As a technology first start-up Client ‘Dive Deep’ across all customer and business KPIs. Client believes in detail and thus, use data to optimize processes, drive action and deliver results. The role would suit someone who is passionate about data and enjoys using great software solutions for our business requirements and issues found.",https://www.linkedin.com/jobs/view/3107749679/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=3gWvHD%2F%2F%2F1k5NMFxXz82hg%3D%3D&trk=flagship3_search_srp_jobs,Azure Data Engineer,Ciklum,2 weeks ago,Full-time · Mid-Senior level,"Islamabad, Islāmābād, Pakistan"
+48,48,"BCS prides itself as one of the top IT consulting firms and preferred technology partner for high profile clients worldwide. We enable them to run mission-critical systems with the latest technology innovations to achieve better business outcomes.
+
+Our customized IT solutions and managed services focus on delivering digital transformation to small to large scale enterprises in order to create high impact, high performance and innovative success.
+
+The Role
+
+Job Description
+
+Develop new applications and update/enhance existing systems (client-server and web-based systems), and provide application support in live operations
+
+Duties And Responsibilities
+Develop and implement new software programs based on requirement/specification documents
+Maintain and improve the performance of existing applications
+Design and update software database schemas
+Run unit tests on developed or enhanced software
+Recommend improvements to existing software program codes as necessary
+Analyze problems/incidents encountered in live operations and recommend/implement solutions
+Ideal Profile
+
+Required Experience
+Graduate of a 4-year IT or computer-related college course
+Over 4 years of software development experience using C# and .NET, and MS SQL/SyBase, .ASP.NET, jQuery, MVC, Angular.
+Over 2 years' software development experience using ASP.NET
+Over 2 years experience in performance tuning/optimizing existing applications
+A strong foundation on Object-Oriented Programming Technical Skills
+Technical skill Required
+Solid understanding of the current IT systems environment and development paths
+Knowledgeable in prevalent operating systems (e.g. Windows, Linux)
+Certification in Systems Development would be an advantage
+Other Competencies, Skills, Licensure Required
+Strong analytical skills
+Good logical problem-solving attitude and skills
+Attention to details
+Highly creative and innovative
+5. Works well in a team setting
+What's on Offer?
+Great work environment
+Excellent career development opportunities
+Work within a company with a solid track record of success",https://www.linkedin.com/jobs/view/3104980584/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=YD%2Bdb1P2tNwGlhzfkRIYrw%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,BCS Technology International Pty Ltd,2 weeks ago,Full-time · Entry level,Pakistan
+49,49,"Job Description:
+Responsible for ensuring adherence to the SLAs as per contract.
+Take the lead on urgent issues and projects, ensuring statuses are properly communicated and appropriate staffing resources are assigned as required.
+Have a thorough process methodology and ability to communicate with all stakeholders.
+Work collaboratively with development engineering to create and deploy a CI/CD infrastructure.
+Automating deployment of Linux applications, system configurations, and security settings.
+Deploy and Support applications in a cloud environment.
+Responsible for infrastructure security and making sure environments are secure, reliable, scalable, and automated.
+Providing direct server support during various operations such as deployment and general production.
+Collaborating with developers to make sure new environments meet requirements and conform to best practices.
+Designing, implementing, and testing agreed-upon infrastructures.
+
+Requirements
+BS degree in Computer Science/Software Engineering or similar relevant field
+Minimum 1-2 years of related experience in the professional industry.
+DevOps – familiarity with DevOps practices and automation tooling
+Virtualization – Facility with the techniques used to virtualize servers, applications, and desktops. Knowledge of the data center requirements to implement each technology.
+Must have experience with the open-source tools, i.e. Jenkins, Kubernetes, Dockers, Ansible, Chef, Terraform, etc.
+Experience with infrastructure tools like Terraform and Cloud Formation.
+Must have exposure working with any of the Cloud platforms - Azure, GCP or AWS
+Basic level scripting experience (Python, Ruby, Bash, Powershell).
+Experience with Linux distributions (Rhel 8, CentOS, Ubuntu, and Amazon Linux)
+Excellent verbal and written English communication skills
+Flexible attitude and versatile personality.
+
+Benefits
+Paid Time Off
+Work From Home
+Health Insurance
+OPD
+Training and Development
+Life Insurance
+Exchange Program
+Paid Certifications
+Flexible working hours",https://www.linkedin.com/jobs/view/3113654211/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=18IccLvE1s9W11RMg1pAnQ%3D%3D&trackingId=FWRpGJdnHp8WnTg10%2BKqMQ%3D%3D&trk=flagship3_search_srp_jobs,DevOps Engineer,Creative Chaos,1 month ago,Full-time · Associate,"Lahore, Punjab, Pakistan"
